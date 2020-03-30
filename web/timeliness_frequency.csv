@@ -57,8 +57,8 @@ Finland - Ministry for Foreign Affairs,finland_mfa,1,2,3,1,0,0,0,0,0,0,0,1,Quart
 Food for the Hungry UK,fh,0,1,0,0,1,0,0,0,0,0,0,1,Quarterly
 France - Ministry for Europe and Foreign Affairs,france,10,7,7,5,10,0,0,0,0,0,0,1,Quarterly
 Free a Girl,freeagirl,0,2,0,0,2,0,0,0,0,0,0,1,Quarterly
-GAVI Alliance,gavi,0,1,0,1,1,0,0,0,0,0,0,1,Quarterly
 GOAL,goal,0,1,1,0,0,0,0,0,0,0,0,1,Quarterly
+"Gavi, the vaccine alliance",gavi,0,1,0,1,1,0,0,0,0,0,0,1,Quarterly
 Geneva Centre for the Democratic Control of Armed Forces (DCAF),dcaf,0,1,0,0,1,0,0,0,0,0,0,1,Quarterly
 Germany - Federal Foreign Office,fo_germany,1,1,0,1,1,0,0,0,0,0,0,1,Quarterly
 Germany - Ministry for Economic Cooperation and Development,bmz,1,1,0,1,1,0,0,0,0,0,0,1,Quarterly
@@ -1040,6 +1040,7 @@ SECOURS CATHOLIQUE - CARITAS FRANCE,sccf,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annua
 SOS Children's Villages Kenya,soscvkenya,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 SOS Sahel International UK,sossaheluk,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 Sabah Integrity Alliance Association (SINAR),sinar,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
+Sabre Education Limited,sct,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 Samaritan's Purse UK,spuk,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 Savana Signatures,savsign-org,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 Sehat Kahani (Community Innovation Hub),sehatkahanicih,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
@@ -1077,7 +1078,6 @@ The Leprosy Mission England and Wales,tlmew,0,0,0,0,0,0,0,0,0,0,0,0,Less than An
 The National Association of Municipalities of Benin (ANCB),ancb_benin,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 The Princess Alia Foundation,paf_2018,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 The Queen Elizabeth Diamond Jubilee Trust,qedjt,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
-The Sabre Charitable Trust,sct,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 The Salvation Army International Development UK,said-uk,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 The University of Oxford,oxford,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual
 Theatre for a Change Malawi,tfacmalawi,0,0,0,0,0,0,0,0,0,0,0,0,Less than Annual

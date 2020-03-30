@@ -356,10 +356,10 @@ Ethical Trading Initiative,eti,8,8,8,0,0,0,0,0,0
 Ethiopiaid UK,ethiopiaiduk,31,31,31,0,0,0,0,0,0
 Ethiopian Horticulture Producer Exporters Association (EHPEA),ehpea,0,0,0,0,0,0,-,-,-
 European Bank for Reconstruction and Development,ebrd,663,656,632,0,0,0,0,0,0
-European Commission - Directorate-General for International Cooperation and Development,ec-devco,5304,4105,2364,4019,2561,627,76,62,27
+European Commission - Directorate-General for International Cooperation and Development,ec-devco,5301,4105,2364,4017,2561,627,76,62,27
 European Commission - Humanitarian Aid & Civil Protection,ec-echo,119,52,1,105,49,1,88,94,100
 European Commission - Neighbourhood and Enlargement Negotiations,ec-near,2263,1724,874,1526,1253,520,67,73,59
-European Commission - Service for Foreign Policy Instruments,ec-fpi,283,196,64,0,0,0,0,0,0
+European Commission - Service for Foreign Policy Instruments,ec-fpi,282,196,64,0,0,0,0,0,0
 European Institute of Peace,eip,5,5,5,0,0,0,0,0,0
 European Investment Bank,eib,409,404,395,409,0,0,100,0,0
 European Journalism Centre,ejc,6,6,6,1,0,0,17,0,0
@@ -409,7 +409,7 @@ Fundacion Acceso,fundacion-acceso,0,0,0,0,0,0,-,-,-
 Fundación Fondo Mujeres del Sur,fms,5,4,4,0,0,0,0,0,0
 Fundación Oriéntame,orientame,1,1,1,0,0,0,0,0,0
 Fundo de Investimento e Patrimonio do Abastecimento de Água (FIPAG),fipag,1,1,1,0,0,0,0,0,0
-GAVI Alliance,gavi,244,119,35,244,119,35,100,100,100
+"Gavi, the vaccine alliance",gavi,244,119,35,244,119,35,100,100,100
 GEF Secretariat,gef,4,4,3,3,3,3,75,75,100
 GEMS Education Solutions,mgcubed,0,0,0,0,0,0,-,-,-
 Gender Links,gl,6,6,6,0,0,0,0,0,0
@@ -502,7 +502,7 @@ Integrity Research and Consultancy Ltd,integrity,2,2,2,0,0,0,0,0,0
 Inter-American Development Bank,iadb,337,277,173,337,277,173,100,100,100
 Interact Worldwide,iww_publish,0,0,0,0,0,0,-,-,-
 InterAction,interaction,0,0,0,0,0,0,-,-,-
-InterAction's NGO Aid Map,ia_nam,562,350,219,0,0,0,0,0,0
+InterAction's NGO Aid Map,ia_nam,560,350,219,0,0,0,0,0,0
 interburns,interburns,0,0,0,0,0,0,-,-,-
 InterClimate Network,icn,1,1,1,0,0,0,0,0,0
 International Aids Vaccine Initiative (IAVI),iavi,0,0,0,0,0,0,-,-,-
@@ -810,6 +810,7 @@ Royal Society for the Protection of Birds,rspb_,0,0,0,0,0,0,-,-,-
 Royal Tropical Institute,kit,9,9,9,8,0,0,89,0,0
 RUAF Foundation,ruaf,4,4,4,0,0,0,0,0,0
 Rutgers,rutgers,32,14,14,0,0,0,0,0,0
+Sabre Education Limited,sct,0,0,0,0,0,0,-,-,-
 Saferworld,saferworld,9,9,5,6,3,0,67,33,0
 Samaritan's Purse UK,spuk,1,1,1,0,0,0,0,0,0
 Savana Signatures,savsign-org,0,0,0,0,0,0,-,-,-
@@ -865,7 +866,7 @@ South Asian Women Development Forum,sawdf-admin,2,2,2,0,0,0,0,0,0
 Southern African Catholic Bishops' Conference Aids Office,sacbc,0,0,0,0,0,0,-,-,-
 SouthSouthNorth,ssn,1,1,1,0,0,0,0,0,0
 Spain - Ministry of Foreign Affairs and Cooperation,maec,1351,46,33,0,0,0,0,0,0
-Spanish Agency for International Development Cooperation (AECID),aecid,343,248,95,59,0,0,17,0,0
+Spanish Agency for International Development Cooperation (AECID),aecid,342,248,95,59,0,0,17,0,0
 SPARK,spark,4,4,4,1,0,0,25,0,0
 Special Hope Network,shn,1,1,1,0,0,0,0,0,0
 Stakeholder Democracy Network,sdn,1,0,0,0,0,0,0,-,-
@@ -939,7 +940,6 @@ The Open University,open_university,7,7,4,6,5,1,86,71,25
 The Power of Nutrition,the_power_of_nutrition,11,11,10,10,9,9,91,82,90
 The Princess Alia Foundation,paf_2018,4,4,4,0,0,0,0,0,0
 The Queen Elizabeth Diamond Jubilee Trust,qedjt,0,0,0,0,0,0,-,-,-
-The Sabre Charitable Trust,sct,0,0,0,0,0,0,-,-,-
 The Salvation Army International Development UK,said-uk,1,1,1,0,0,0,0,0,0
 The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA),unrwa,92,23,7,42,0,0,46,0,0
 "The University of Dodoma (UDOM), Tanzania",udom,3,3,0,0,0,0,0,0,-
@@ -1015,8 +1015,8 @@ United Nations Office for the Coordination of Humanitarian Affairs (Specially-De
 United Nations Population Fund,unfpa,0,0,0,0,0,0,-,-,-
 United Nations World Food Programme (WFP),wfp,642,524,367,640,524,367,100,100,100
 United Purpose,cu,1,1,1,0,0,0,0,0,0
-United States,unitedstates,2644,1584,841,18,0,0,1,0,0
-United States Agency for International Development (USAID),usaid,4576,1256,761,0,0,0,0,0,0
+United States,unitedstates,2643,1584,841,18,0,0,1,0,0
+United States Agency for International Development (USAID),usaid,4575,1256,761,0,0,0,0,0,0
 United Work,united_work,0,0,0,0,0,0,-,-,-
 Universitair Centrum voor Ontwikkelingssamenwerking,ucos,2,2,0,2,2,0,100,100,-
 Universiteit Leiden,universiteit_leiden,2,1,1,2,1,1,100,100,100
