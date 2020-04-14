@@ -21,17 +21,17 @@ Action Against Hunger UK,acf,International NGO,75,28,67,57
 Action Against Hunger USA,aahusa,International NGO,13,0,54,22
 Action Contre la Faim,acf-fr,International NGO,50,0,59,36
 ActionAid Bangladesh,aab,International NGO,50,0,81,44
-ActionAid Denmark (Mellemfolkeligt Samvirke),aadk,International NGO,63,31,81,58
+ActionAid Denmark (Mellemfolkeligt Samvirke),aadk,International NGO,50,31,81,54
 ActionAid Ghana,aag,National NGO,38,0,0,13
 ActionAid International,aai,International NGO,50,33,81,55
 ACTIONAID INTERNATIONAL KENYA,aaik,International NGO,63,100,86,83
 ActionAid Rwanda,aar,National NGO,75,100,81,85
-ActionAid UK,aauk,International NGO,88,52,80,73
+ActionAid UK,aauk,International NGO,88,51,80,73
 Acumen,acumen,International NGO,50,100,60,70
 Adam Smith International,asi,Private Sector,38,0,70,36
 Adaptation Fund,af,Multilateral,0,0,63,21
 ADD International (Action on Disability and Development),addinternational,International NGO,88,0,61,50
-Administração de Infra-Estruturas de Águas e Saneamento,aias,Government,75,0,77,51
+Administração de Infra-Estruturas de Águas e Saneamento,aias,Government,63,0,77,47
 ADRA Denmark,adra-dk,National NGO,50,66,74,63
 ADRA-UK,adrauk,International NGO,25,0,74,33
 ADS-Nyanza,ads-nyanza,Other Public Sector,0,0,0,0
@@ -45,14 +45,14 @@ Afghanistan and Central Asian Association,acaa,International NGO,0,0,0,0
 Afghanistan Public Policy Research Organization (APPRO),appro-af,"Academic, Training and Research",38,33,69,47
 Africa Educational Trust,aet,International NGO,0,0,54,18
 Africalia,africalia,Other Public Sector,0,60,90,50
-African Center for Economic Transformation (ACET),acet,Regional NGO,75,0,68,48
+African Center for Economic Transformation (ACET),acet,Regional NGO,63,0,68,44
 African Centre for Global Health and Social Transformation,achest,International NGO,0,33,81,38
 African Development Bank,afdb,Multilateral,88,98,97,94
 African Initiatives,ai_1064413,International NGO,50,0,71,40
 African Parks Network,african_parks,International NGO,25,33,64,41
 African Population and Health Research Center,aphrc,International NGO,0,0,74,25
 African Revival,africanrevival,International NGO,0,0,72,24
-African Women's Development Fund,awdf,Regional NGO,75,0,66,47
+African Women's Development Fund,awdf,Regional NGO,63,0,66,43
 Afrikagrupperna Sweden,afrikagrupperna,International NGO,0,0,77,26
 AfriKids,afrikids,International NGO,0,0,0,0
 Aga Khan Foundation (United Kingdom),akfuk73,International NGO,75,0,65,47
@@ -71,7 +71,7 @@ Aidsfonds - Soa Aids Nederland,nl-kvk-41207989,International NGO,88,0,77,55
 AIDSPAN,aidspan,International NGO,0,0,56,19
 Ajuda de Desenvolvimento de Povo para Povo (ADPP),adpp,National NGO,0,0,57,19
 Aktis Strategy Ltd,aktis,Private Sector,0,0,65,22
-Akvo Foundation,akvo,International NGO,63,1,81,48
+Akvo Foundation,akvo,International NGO,63,0,81,48
 Alcis Holdings Limited,alcis,Private Sector,0,0,0,0
 Alfalit,alfalit,National NGO,0,0,0,0
 All We Can (formerly Methodist Relief and Development Fund),allwecan,International NGO,0,0,0,0
@@ -89,9 +89,9 @@ Amref Health Africa in Uganda,amrefug,National NGO,13,0,71,28
 Amref Health Africa Malawi,amrefmw,National NGO,38,0,88,42
 Ananda Marga Universal Relief Team (AMURT) Africa,amurt_kenya,National NGO,0,0,68,23
 ANDA,anda,National NGO,0,0,0,0
-Anti-Slavery International,asil,International NGO,88,22,73,61
+Anti-Slavery International,asil,International NGO,75,22,73,57
 APPRO-Europe,appro-eu,"Academic, Training and Research",0,0,0,0
-APT Action on Poverty,apt,International NGO,88,66,79,78
+APT Action on Poverty,apt,International NGO,75,66,79,73
 Aqua for All,aqua4all,Foundation,0,0,50,17
 Arab foundation for freedoms and equality,afemena,Regional NGO,0,0,66,22
 ARK (Absolute Return for Kids),ark,International NGO,0,0,0,0
@@ -103,26 +103,26 @@ Association for Cultural Technical and Educational Cooperation (ACTEC),actec,Nat
 Association for Progressive Communication,apc,International NGO,0,0,65,22
 Association for Reproductive and Family Health,arfh,National NGO,0,0,0,0
 Association for Women's Rights in Development (AWID),awid,International NGO,13,0,58,24
-Association of Commonwealth Universities,acu,"Academic, Training and Research",13,33,65,37
+Association of Commonwealth Universities,acu,"Academic, Training and Research",0,33,65,33
 Association pour la Promotion de l'Education et de la Formation à l'Etranger,apefe,Other Public Sector,63,62,92,72
 Atos IT Services Ltd,atosuk,Private Sector,0,0,66,22
 Atradius Dutch State Business,adsb,Private Sector,0,0,64,21
-Auschwitz Institute for Peace and Reconciliation,aipr,"Academic, Training and Research",13,0,64,26
+Auschwitz Institute for the Prevention of Genocide and Mass Atrocities,aipr,"Academic, Training and Research",13,0,64,26
 Australia - Department of  Foreign Affairs and Trade,ausgov,Government,63,0,76,46
-Auto-Développement Afrique (ADA),ada,National NGO,13,66,84,54
+Auto-Développement Afrique (ADA),ada,National NGO,0,66,84,50
 Autre Terre asbl,a-t,"Academic, Training and Research",50,66,83,66
 Avanti Communications Plc,ava_admin,Private Sector,25,33,77,45
 Avocats Sans Frontières,asf,National NGO,63,66,80,70
 AVSI FOUNDATION IN UGANDA,avsi_uganda,International NGO,13,0,79,31
 AVT-L Association of Victims of Terrorism Lebanon,avt-l,National NGO,0,0,55,18
-AWEPA,awepa,International NGO,25,3,83,37
+AWEPA,awepa,International NGO,13,3,83,33
 Babawatoto Centre For Children and Youth,bawacecy-tz,National NGO,50,0,74,41
 Backward Society Education (BASE),base_22,National NGO,0,0,54,18
 Balloon Ventures Foundation,bvf,International NGO,50,66,77,64
 Bangladesh Nari Progati Sangha,bnps,National NGO,13,0,0,4
 BasicNeeds,basicneeds,International NGO,0,5,65,23
 Baylor College of Medicine Children's Foundation Malawi,bcm-cf,National NGO,0,0,0,0
-BBC Media Action,bbcmediaaction,International NGO,38,0,63,34
+BBC Media Action,bbcmediaaction,International NGO,25,0,63,29
 BDO LLP,bdo,Private Sector,50,66,80,65
 Bees Abroad UK,bauk,International NGO,0,0,0,0
 Bees for Development Trust,beesfordevelopment,International NGO,50,100,59,70
@@ -137,7 +137,7 @@ Bond,bond,National NGO,25,0,89,38
 BOS+ tropen,bos_plus_tropen,National NGO,50,0,90,47
 Boston University,bu-carbx-admin,"Academic, Training and Research",50,0,56,35
 Both ENDS,bothends,National NGO,88,0,79,56
-BRAC,brac_admin2,International NGO,13,0,83,32
+BRAC,brac_admin2,International NGO,0,0,83,28
 BRAC International,bracintl,International NGO,0,0,71,24
 BRAC University,bu,"Academic, Training and Research",50,0,66,39
 Brigham and Women's Hospital,bwh,"Academic, Training and Research",0,0,0,0
@@ -147,7 +147,7 @@ British Council,britishcouncil,Other Public Sector,25,8,77,37
 British Red Cross,gb-chc-220949,International NGO,75,31,65,57
 Broederlijk Delen,bd,National NGO,25,62,86,58
 Brujula Comunicaciones Estrategicas SAS,brujula,Private Sector,13,0,0,4
-Brulocalis,brulocalis,Other Public Sector,63,66,82,70
+Brulocalis,brulocalis,Other Public Sector,50,66,82,66
 BSR,bsr_admin,International NGO,0,0,71,24
 Bucks Community NGO,bucksfarm,National NGO,13,0,72,28
 Build Africa,buildafrica,International NGO,63,33,68,55
@@ -167,7 +167,7 @@ CARE Danmark Fonden for Frivillig Ulandsbistand,12921047,National NGO,50,0,74,41
 CARE International Afghanistan,ciafg,International NGO,0,0,65,22
 CARE international foundation Switzerland in Sudan,cis,International NGO,50,0,84,45
 CARE International in Zimbabwe,ciz,International NGO,0,0,68,23
-CARE International UK,ciuk,International NGO,88,1,66,52
+CARE International UK,ciuk,International NGO,88,2,66,52
 CARE Nederland,carenederland,International NGO,50,0,78,43
 CARE Nepal,cnepal,International NGO,25,0,69,31
 CARE SOMALIA,csom1,National NGO,50,0,74,41
@@ -205,7 +205,7 @@ Cheshire Services Uganda,csu,National NGO,13,0,70,28
 Child-to-Child,ctc,International NGO,0,0,0,0
 Child.org,child-dot_org,International NGO,63,33,65,54
 ChildFund International,childfund,International NGO,0,0,0,0
-ChildHope UK,childhopeuk,International NGO,63,33,78,58
+ChildHope UK,childhopeuk,International NGO,50,33,78,54
 Children in Crisis,cic,International NGO,0,0,80,27
 CHOICE for Youth and Sexuality,cfyas,International NGO,63,22,79,55
 Christian Aid,caid,International NGO,75,0,80,52
@@ -232,27 +232,27 @@ Collectif Stratégies Alimentaires,csa,National NGO,50,66,85,67
 Comité pour l'abolition des dettes illégitimes,cadtm,National NGO,25,66,86,59
 COMMISSION JUSTICE ET PAIX ASBL (cjp),cjp,National NGO,25,66,84,58
 Commune de Adja-Ouere - Bénin,adja-ouere,Other Public Sector,0,0,79,26
-Commune de Adjarra - Bénin,adjarra,Other Public Sector,13,0,69,27
+Commune de Adjarra - Bénin,adjarra,Other Public Sector,0,0,69,23
 Commune de Adjohoun - Bénin,adjohoun,Other Public Sector,0,0,79,26
-Commune de Akpro-Missérété - Bénin,akpro-misserete,Other Public Sector,13,0,79,31
-Commune de Allada - Bénin,allada,Other Public Sector,13,0,79,31
+Commune de Akpro-Missérété - Bénin,akpro-misserete,Other Public Sector,0,0,79,26
+Commune de Allada - Bénin,allada,Other Public Sector,0,0,79,26
 Commune de Aplahoué - Bénin,aplahoue,Other Public Sector,0,0,79,26
 Commune de Avrankou - Bénin,avrankou,Other Public Sector,0,0,79,26
 Commune de Bopa - Bénin,bopa,Other Public Sector,0,0,79,26
 Commune de Comè - Bénin,come,Other Public Sector,0,0,79,26
 Commune de Dangbo - Benin,dangbo,Other Public Sector,0,0,79,26
 Commune de Ifangni - Bénin,ifangni,Other Public Sector,0,0,79,26
-Commune de Klouékanmè - Bénin,klouekanme,Other Public Sector,13,0,79,31
+Commune de Klouékanmè - Bénin,klouekanme,Other Public Sector,0,0,79,26
 Commune de Kpomassè - Bénin,kpomasse,Other Public Sector,0,0,79,26
 Commune de Kétou - Bénin,ketou,Other Public Sector,0,0,79,26
-Commune de Lalo - Bénin,lalo,Other Public Sector,13,0,79,31
+Commune de Lalo - Bénin,lalo,Other Public Sector,0,0,79,26
 Commune de Parakou - Bénin,parakou,Other Public Sector,0,0,85,28
 Commune de Pobè - Bénin,pobe,Other Public Sector,0,0,79,26
-Commune de Toffo - Bénin,toffo,Other Public Sector,13,0,79,31
-Commune de Toviklin - Bénin,toviklin,Other Public Sector,13,0,79,31
+Commune de Toffo - Bénin,toffo,Other Public Sector,0,0,79,26
+Commune de Toviklin - Bénin,toviklin,Other Public Sector,0,0,79,26
 Commune de Zè - Bénin,ze,Other Public Sector,0,0,79,26
-Concern Worldwide,concern_worldwide,International NGO,63,56,86,68
-Concern Worldwide UK,concernuk,International NGO,63,56,85,68
+Concern Worldwide,concern_worldwide,International NGO,63,58,86,69
+Concern Worldwide UK,concernuk,International NGO,63,58,85,69
 Conciliation Resources,cr,International NGO,63,33,63,53
 Concordis International,concordis,International NGO,63,66,77,69
 Conflict Dynamics International,cdi,International NGO,0,0,80,27
@@ -262,9 +262,9 @@ Consortium for Street Children,csc,International NGO,38,0,53,30
 Construction Sector Transparency Initiative (CoST),cost_uk,International NGO,0,0,62,21
 Coopération par l'Education et la Culture,cec,National NGO,13,66,93,57
 Cord,cord,Regional NGO,0,0,0,0
-Cordaid,cordaid,International NGO,88,68,86,81
+Cordaid,cordaid,International NGO,88,69,86,81
 Cowater International Inc,cowater,Private Sector,63,33,69,55
-COWI,cowi,Other Public Sector,88,0,85,58
+COWI,cowi,Other Public Sector,75,0,85,53
 CRANE,crane,National NGO,38,0,68,35
 CREA,creausa-org,International NGO,13,2,71,29
 Croix-Rouge de Belgique Communauté francophone - Activités internationales ASBL,crb-ai_admin,National NGO,25,66,87,59
@@ -280,10 +280,10 @@ dance4life,dance4life,International NGO,0,0,77,26
 DanChurchAid,dca,International NGO,88,0,78,55
 Danish Family Planning Association,dfpa,National NGO,25,66,65,52
 Danish Refugee Council,drc,International NGO,88,44,79,70
-Danmission,danmission,International NGO,38,66,68,57
+Danmission,danmission,National NGO,38,66,68,57
 Dansk Missionråds Udviklingsafdeling,dmru,International NGO,25,22,65,37
 Data4Development,d4d,Private Sector,25,0,0,8
-David Gordon Memorial Hospital,dgmh,"Academic, Training and Research",75,33,83,64
+David Gordon Memorial Hospital,dgmh,"Academic, Training and Research",63,33,83,60
 Dawuro Development Association,dawuro_da,"Academic, Training and Research",38,0,59,32
 DeafKidz International,dki1151219,International NGO,63,33,72,56
 DECP,decp,National NGO,13,100,70,61
@@ -305,7 +305,7 @@ Direcção Provincial de Saúde de Nampula,dps-nampula,Government,25,0,71,32
 Disability and Development Partners,ddp,International NGO,88,22,65,58
 Disability Rights Advocacy Fund,draf,International NGO,0,0,0,0
 Disability Rights Fund,drf,International NGO,0,0,62,21
-Disabled People's Organisations Denmark,dpod,National NGO,63,0,68,44
+Disabled People's Organisations Denmark,dpod,National NGO,50,0,68,39
 Disasters Emergency Committee,dec-uk,National NGO,63,0,80,48
 "Discovery Learning Alliance, Inc.",dla,International NGO,38,0,68,35
 Djapo,djapo,National NGO,25,66,86,59
@@ -314,10 +314,10 @@ DKT Ethiopia,dkt_ethiopia,International NGO,25,0,63,29
 DNH Mali (Direction Nationale de l’Hydraulique du Mali),pca-gire,Government,0,0,0,0
 Doctors of the World UK,dotw_uk,International NGO,0,0,0,0
 Doctors with Africa CUAMM,cuamm,International NGO,13,0,62,25
-Dorcas Aid International,dai,International NGO,75,0,82,52
+Dorcas Aid International,dai,International NGO,63,0,82,48
 Drugs for Neglected Diseases initiative,dndi_transparency,"Academic, Training and Research",13,0,74,29
 DUF - The Danish Youth Council,duf,National NGO,38,0,53,30
-Dynamo International asbl,dynamo_international,National NGO,63,66,79,69
+Dynamo International asbl,dynamo_international,National NGO,50,66,79,65
 Défi Belgique Afrique,dba,National NGO,50,66,83,66
 Dóchas - Irish Association of Non Governmental Development Organisations,dochas,National NGO,0,0,66,22
 ECDPM,ecdpm,"Academic, Training and Research",63,0,0,21
@@ -328,7 +328,7 @@ Ecorys Nederland B.V.,ecorysnl,Private Sector,0,0,97,32
 Ecorys UK,ecuk,Private Sector,75,8,70,51
 Educate!,educate,International NGO,0,0,68,23
 Education Development Trust,edt_kenya,International NGO,50,0,71,40
-EDUCATION DEVELOPMENT TRUST - RWANDA,edt_rwanda,International NGO,63,33,74,57
+EDUCATION DEVELOPMENT TRUST - RWANDA,edt_rwanda,International NGO,50,33,74,52
 Edukans Foundation,edukans_foundation,International NGO,25,41,64,43
 Emissa,emissa,National NGO,13,0,54,22
 Emmanuel International UK,eiuk,International NGO,0,0,0,0
@@ -364,9 +364,9 @@ Family Aids Caring Trust,fact,National NGO,0,0,83,28
 Family Counseling and Development Foundation,fcdf,National NGO,13,0,79,31
 Family Guidance Association of Ethiopia,fgae_ethiopia,National NGO,13,0,74,29
 Family Life Education Program,flepuganda,National NGO,0,0,0,0
-Farm Africa,fa,International NGO,88,66,74,76
+Farm Africa,fa,International NGO,75,66,74,72
 Fauna & Flora International,ffi_publisher,International NGO,0,0,0,0
-Federation of Women Lawyers Kenya,fida,National NGO,75,0,86,54
+Federation of Women Lawyers Kenya,fida,National NGO,63,0,86,50
 Feed the Minds,ftm-291333,International NGO,75,100,77,84
 FHI360,fhi360,International NGO,25,0,62,29
 Fiabel,fiabel,National NGO,13,66,86,55
@@ -393,7 +393,7 @@ Friends of the Earth International,foei,International NGO,25,11,80,39
 Friends of the Earth-Ghana,foe-ghana,National NGO,0,0,72,24
 Frontline AIDS,f-aids,International NGO,50,16,83,50
 Fundacion Acceso,fundacion-acceso,Regional NGO,0,0,0,0
-Fundación Fondo Mujeres del Sur,fms,Foundation,63,0,65,43
+Fundación Fondo Mujeres del Sur,fms,Foundation,50,0,65,38
 Fundación Oriéntame,orientame,National NGO,0,0,67,22
 Fundo de Investimento e Patrimonio do Abastecimento de Água (FIPAG),fipag,Other Public Sector,13,0,75,29
 "Gavi, the vaccine alliance",gavi,Public Private Partnership,75,100,96,90
@@ -415,7 +415,7 @@ Global Canopy,globalcanopy,International NGO,63,33,86,61
 Global Focus,globaltfokus,National NGO,50,0,65,38
 Global Fund to End Modern Slavery,gfems,National NGO,13,33,54,33
 Global Green Growth Institute (GGGI),gggi,Multilateral,13,0,78,30
-Global Innovation Fund,gif,International NGO,63,0,55,39
+Global Innovation Fund,gif,International NGO,50,0,55,35
 Global Network of People Living with HIV (GNP+),gnpplus,International NGO,0,0,65,22
 Global Network of Sex Work Projects (NSWP),nswp,International NGO,75,33,76,61
 Global Partnership for Education,gpe,Multilateral,0,0,46,15
@@ -424,7 +424,7 @@ GlobalGiving.org,globalgiving,International NGO,63,0,70,44
 GOAL,goal,International NGO,88,8,72,56
 GOGLA - Global Off-Grid Lighting Association,gogla,Private Sector,0,0,63,21
 GPPAC Foundation,gppac,International NGO,63,0,78,47
-Groupe Pivot Santé Population,gpsp-org,"Academic, Training and Research",13,0,85,33
+Groupe Pivot Santé Population,gpsp-org,"Academic, Training and Research",0,0,85,28
 Grow Movement,growmovement_admin,"Academic, Training and Research",0,0,59,20
 Gulu University,guluuni,"Academic, Training and Research",38,0,63,34
 Guttmacher Institute,guttmacher,International NGO,50,0,86,45
@@ -443,7 +443,7 @@ Healthright International-Kenya,hri,National NGO,13,0,60,24
 Heartland Alliance International,ha-i,International NGO,38,0,69,36
 Heifer International South Africa,hsa,National NGO,0,0,74,25
 Heifer Nederland,heifernederland,National NGO,0,0,70,23
-HelpAge International,helpage_international,International NGO,88,82,68,79
+HelpAge International,helpage_international,International NGO,75,82,68,75
 HelpAge International UK,ageintl,National NGO,75,0,76,50
 Helvetas Swiss Intercooperation,hsi,International NGO,13,66,80,53
 HiiL innovating Justice,hiil_mfa,Foundation,0,0,71,24
@@ -451,7 +451,7 @@ Hilfswerk Austria Zimbabwe,hwa-zm,International NGO,0,0,0,0
 Hivos,stichting_hivos,International NGO,88,8,68,55
 HM Treasury,hmtfitb,Government,38,28,60,42
 Homeless International,hi,International NGO,0,0,49,16
-Hope and Homes for Children,hhc,International NGO,75,33,80,63
+Hope and Homes for Children,hhc,International NGO,63,33,80,59
 Hope for Children,hfc,International NGO,88,33,65,62
 Horizons for Green Development,horizons,National NGO,0,0,0,0
 Hospice Africa Ltd,hauk,"Academic, Training and Research",0,0,62,21
@@ -461,12 +461,12 @@ Humanitarian Quality Assurance Initiative,hqai,International NGO,63,33,68,55
 I Choose Life Africa,ke-ngc-3372,National NGO,0,0,0,0
 ICA:UK,icauk,National NGO,0,0,69,23
 ICCO Cooperation,icco-cooperation,International NGO,88,44,86,73
-ICF Consulting Services Ltd,icf,Private Sector,88,66,81,78
+ICF Consulting Services Ltd,icf,Private Sector,75,66,81,74
 ICS,ics,International NGO,0,0,0,0
 iDE,ide,International NGO,13,0,56,23
 IDEO.org,ideo_org,International NGO,0,0,56,19
 "IDH, the Sustainable Trade Initiative",idh,International NGO,13,0,81,31
-IDinsight,idinsight,International NGO,13,11,71,32
+IDinsight,idinsight,International NGO,0,16,71,29
 IFOAM - Organics International,ifoam,International NGO,0,0,62,21
 IHE Delft Institute for Water Education,ihedelft,"Academic, Training and Research",75,33,80,63
 Iles de Paix,idp,National NGO,0,66,84,50
@@ -479,10 +479,10 @@ Instiglio,instiglio,International NGO,50,0,77,42
 "Institut National de l'Eau, Benin",ine_benin,"Academic, Training and Research",25,0,77,34
 Institute for International Workers Education,iiwe,National NGO,50,66,82,66
 Institute for Security Studies,issafrica,International NGO,63,33,89,62
-Institute for War & Peace Reporting,iwpr,International NGO,13,0,53,22
+Institute for War & Peace Reporting,iwpr,International NGO,0,0,53,18
 Institute of Development Studies,ids,"Academic, Training and Research",63,34,65,54
 Institute of Tropical Medicine,itm,Other Public Sector,50,66,85,67
-Integrity Action,integrity_action,International NGO,63,15,48,42
+Integrity Action,integrity_action,International NGO,63,16,48,42
 Integrity Research and Consultancy Ltd,integrity,Private Sector,25,0,59,28
 Inter-American Development Bank,iadb,Multilateral,88,100,97,95
 Interact Worldwide,iww_publish,International NGO,0,0,0,0
@@ -503,11 +503,11 @@ International Crisis Group,crisisgroup,International NGO,50,100,65,72
 International Development Law Organization (IDLO),idlo,Multilateral,88,0,73,54
 International Federation of Accountants,ifac,International NGO,0,0,56,19
 International Federation of the Red Cross and Red Crescent (IFRC),ifrcrcs,International NGO,88,1,70,53
-International Fertilizer Development Center,ifdc-us,International NGO,25,16,75,39
+International Fertilizer Development Center,ifdc-us,International NGO,25,0,75,33
 International Finance Corporation,ifcwbg,Multilateral,88,0,83,57
 International Fund for Agricultural Development (IFAD),ifad,Multilateral,88,0,86,58
 International IDEA,idea,Multilateral,13,0,54,22
-International Indigenous Women Forum,fimi_iiwf_2019,Foundation,63,0,70,44
+International Indigenous Women Forum,fimi_iiwf_2019,Foundation,50,0,70,40
 International Initiative for Impact Evaluation,3ie,International NGO,0,0,0,0
 International Labour Organization (ILO),ilo,Multilateral,13,0,85,33
 International Media Support,ims,International NGO,38,0,65,34
@@ -517,11 +517,11 @@ International Network for Advancing Science and Policy,inasp,International NGO,6
 International Network for Bamboo and Rattan (INBAR),inbar,Multilateral,0,0,52,17
 International Network of People who Use Drugs (INPUD),inpud_admin,International NGO,0,0,57,19
 International NGO Safety Orgnisation,inso,International NGO,0,0,57,19
-International Organization for Migration (IOM),iom,Multilateral,88,3,81,57
+International Organization for Migration (IOM),iom,Multilateral,75,1,81,52
 International Planned Parenthood Federation,ippf,International NGO,88,48,77,71
 International Potato Center,cip,Multilateral,63,66,83,71
 International Procurement Agency,ipa,Private Sector,0,0,67,22
-International Rescue Committee UK,irc_uk,International NGO,88,46,81,72
+International Rescue Committee UK,irc_uk,International NGO,88,47,81,72
 International Service,unais,International NGO,0,0,67,22
 International Trade Centre (ITC),itc,International NGO,38,83,73,65
 International Treatment Preparedness Coalition (ITPC),itpc,International NGO,13,0,0,4
@@ -541,8 +541,8 @@ IRC,irc,International NGO,63,0,85,49
 Ireland - Department of Foreign Affairs and Trade,irishaid,Government,13,0,70,28
 IREX (International Research and Exchange Board),irex,International NGO,13,0,66,26
 "Iringa Development of Youth, Disabled and Children Care",idydc,National NGO,0,0,66,22
-Irise International,irise_int,International NGO,63,0,81,48
-Irrawaddy Policy Exchange,ipe,"Academic, Training and Research",88,66,65,73
+Irise International,irise_int,International NGO,50,0,81,44
+Irrawaddy Policy Exchange,ipe,"Academic, Training and Research",75,66,65,69
 Islamic Relief Worldwide,irw,International NGO,63,0,71,45
 Itad,itad,Private Sector,75,17,65,52
 ITECO - Centre de formation pour le développement,iteco,National NGO,50,66,91,69
@@ -553,12 +553,12 @@ Johns Hopkins University,gi-jhu,"Academic, Training and Research",50,0,0,17
 Joshua Orphan and Community Care,jocc_uk,International NGO,25,33,78,45
 Just Associates,jass,International NGO,0,0,66,22
 Kadaster International,kad,Government,0,6,42,16
-Karuna Mission Social Solidarity - KMSS,kmss,National NGO,75,33,65,58
+Karuna Mission Social Solidarity - KMSS,kmss,National NGO,63,33,65,54
 Karuna Trust,karuna,International NGO,0,0,77,26
 Kepa ry,kepa,National NGO,0,0,0,0
 Kesho Kenya,kesho_kenya,National NGO,0,0,79,26
 kidasha,kidasha,International NGO,50,66,62,59
-King Salman Humanitarian Aid and Relief Centre,ksrelief291,Government,63,21,75,53
+King Salman Humanitarian Aid and Relief Centre,ksrelief291,Government,63,18,75,52
 King's College London,kingscollegelondon,"Academic, Training and Research",38,0,60,33
 Kisumu Medical and Education Trust,kmet,National NGO,0,0,0,0
 KIYO,kiyo,International NGO,0,66,82,49
@@ -571,7 +571,7 @@ Kwame Nkrumah University of Science and Technology,knust,"Academic, Training and
 LAMB Health Care Foundation,lhcf,National NGO,25,0,69,31
 Landell Mills,landell-mills,Private Sector,0,0,62,21
 Larive International,larive,Private Sector,13,0,59,24
-Le Monde selon les femmes asbl,mondefemmes,National NGO,25,66,83,58
+Le Monde selon les femmes asbl,mondefemmes,National NGO,13,66,83,54
 LEAD International,lead_international,International NGO,0,0,0,0
 Learning for Life,learningforlife,International NGO,0,0,0,0
 Leonard Cheshire Disability,lcd_admin,International NGO,88,38,73,66
@@ -582,7 +582,7 @@ Link Community Development International,lcdi_admin,International NGO,25,100,62,
 Link Community Development Scotland,lcds,International NGO,0,0,74,25
 "Lithuania, Ministry of Foreign Affairs",lithuania_mfa,Government,0,0,0,0
 Lively Minds,livelyminds,International NGO,0,0,0,0
-Liverpool School of Tropical Medicine,lstm,"Academic, Training and Research",13,0,62,25
+Liverpool School of Tropical Medicine,lstm,"Academic, Training and Research",0,0,62,21
 Living Earth Foundation,livingearth12,International NGO,0,0,68,23
 living peace institute,lpi,National NGO,13,0,0,4
 LIWA programme trust,liwa-admin,"Academic, Training and Research",25,0,54,26
@@ -621,15 +621,15 @@ MicroLoan Foundation,mlf,International NGO,0,0,0,0
 Miel Maya Honing asbl,mmha,National NGO,50,66,83,66
 Mifumi UK,mifumi_uk,International NGO,0,0,0,0
 Milieudefensie,foenl,National NGO,25,12,87,41
-Millennium Challenge Corporation,millenniumchallenge,Government,63,0,79,47
+Millennium Challenge Corporation,millenniumchallenge,Government,50,0,79,43
 Ministry of Foreign Affairs - United Arab Emirates (UAE),mofaic_uae,Government,50,0,50,33
 Ministry of Foreign Affairs of  Japan,mofa-jpn,Government,13,0,60,24
 Ministry of Foreign and European Affairs of the Slovak Republic,slovakaid,Government,13,0,68,27
-Ministère de l'Economie et des Finances du Bénin,mefbenin,Government,75,0,88,54
-Mission Øst,missioneast,International NGO,75,0,48,41
-Mondiaal FNV,mondiaalfnv,National NGO,13,0,72,28
+Ministère de l'Economie et des Finances du Bénin,mefbenin,Government,63,0,88,50
+Mission Øst,missioneast,International NGO,63,0,48,37
+Mondiaal FNV,mondiaalfnv,National NGO,0,0,72,24
 mothers2mothers,m2m_sa,International NGO,0,0,67,22
-Motivation,motivation,International NGO,75,0,68,48
+Motivation,motivation,International NGO,63,0,68,44
 Mott MacDonald Limited,mml,Private Sector,63,0,66,43
 Mukisa Foundation,mukisa_foundation,National NGO,0,0,72,24
 Mulanje Mission Hospital,mmh,National NGO,88,66,68,74
@@ -639,10 +639,10 @@ Muslim Aid,muslimaid,International NGO,0,0,0,0
 MVO Nederland,mvo_nederland,Other Public Sector,75,0,70,48
 Mzumbe University,m_u,"Academic, Training and Research",38,0,60,33
 Médecins Sans Vacances,msv,National NGO,63,66,86,72
-"Namati, Inc",namati_inc,International NGO,25,33,89,49
+"Namati, Inc",namati_inc,International NGO,38,33,89,53
 Nathan Associates London Ltd.,nathan,Private Sector,75,9,66,50
 Natural Resource Governance Institute (NRGI),nrgi,International NGO,0,0,0,0
-"Natural Resources Institute, University of Greenwich.",nri,"Academic, Training and Research",13,0,69,27
+"Natural Resources Institute, University of Greenwich.",nri,"Academic, Training and Research",0,0,69,23
 Near East Foundation (NEF USA),nef_usa,International NGO,0,0,76,25
 Near East Foundation Mali (NEF Mali),nef_mali,International NGO,13,0,85,33
 Near East Foundation UK (NEF UK),nef-uk,International NGO,13,100,67,60
@@ -650,7 +650,7 @@ Neem Foundation,neem,National NGO,38,33,0,24
 Nepal Disabled Human Rights Center,dhrc_nepal,National NGO,25,66,67,53
 Nepal Netra Jyoti Sangh,nnjs_nepal,National NGO,50,0,59,36
 Netherlands - Ministry of Foreign Affairs,minbuza_nl,Government,88,72,88,83
-Netherlands Commission for Environmental Assessment,ncea,Foundation,75,5,72,51
+Netherlands Commission for Environmental Assessment,ncea,Foundation,63,5,72,47
 Netherlands Enterprise Agency,rvo,Government,88,0,77,55
 Netherlands Institute for Multiparty Democracy (NIMD),nimd-hq,International NGO,75,0,66,47
 Netherlands Leprosy Relief,nlr,International NGO,0,0,82,27
@@ -661,8 +661,8 @@ Network for Africa,network4africa,International NGO,0,0,0,0
 Network For Enterprise Enhancement and Development Support,needs,National NGO,0,0,0,0
 New Zealand - Ministry of Foreign Affairs and Trade - New Zealand Aid Programme,mfat,Government,63,30,79,57
 NGO Federation of Nepal,nfn,National NGO,0,0,0,0
-Ngo-federatie (Vlaamse federatie van ngo's voor ontwikkelingssamenwerking),ngo-federatie,National NGO,25,66,84,58
-Niger Delta Stakeholders Initiative for Community Development and Empowerment,ndsicde,National NGO,63,33,80,59
+Ngo-federatie (Vlaamse federatie van ngo's voor ontwikkelingssamenwerking),ngo-federatie,National NGO,13,66,84,54
+Niger Delta Stakeholders Initiative for Community Development and Empowerment,ndsicde,National NGO,50,33,80,54
 NKHOMA MISSION HOSPITAL,nmhiati,National NGO,75,0,68,48
 Nonviolent Peaceforce South Sudan,npss,International NGO,13,0,59,24
 Norad - Norwegian Agency for Development Cooperation,norad,Government,63,59,82,68
@@ -680,13 +680,13 @@ Omidyar Network Fund Inc.,omidyarnetwork,Foundation,0,0,68,23
 One Acre Fund,oneacrefund,International NGO,0,13,59,24
 One to One Children's Fund,onetoonecf,International NGO,0,0,0,0
 One Young World,oyw,National NGO,13,8,57,26
-ONG ALCRER,alcrer-1,National NGO,63,0,88,50
+ONG ALCRER,alcrer-1,National NGO,50,0,88,46
 openmindedly,openmindedly,Private Sector,0,0,0,0
-OpenNorth,opennorth,International NGO,0,33,65,33
+OpenNorth,opennorth,International NGO,0,0,65,22
 Opportunity International Savings and Loans Ltd,oisl_gh,Private Sector,25,66,71,54
 Opportunity International UK,opportunity-international-uk,International NGO,63,11,73,49
 Options Consultancy Services,options,Private Sector,75,89,85,83
-Orbis Africa,orbis_africa,International NGO,50,0,0,17
+Orbis Africa,orbis_africa,International NGO,38,0,0,13
 Orbis Charitable Trust,orbis_uk,International NGO,63,100,92,85
 Orbis Ethiopia,orbis_ethiopia,National NGO,63,100,92,85
 Orbis International,orbis_international,International NGO,75,100,88,88
@@ -697,13 +697,13 @@ Oxfam GB,oxfamgb,International NGO,38,0,73,37
 Oxfam IBIS,ibis_denmark,International NGO,63,63,74,67
 Oxfam India,oxfamindia,National NGO,0,0,0,0
 Oxfam Intermón,oxfamintermon,International NGO,0,0,56,19
-Oxfam Novib,onl,International NGO,88,14,84,62
+Oxfam Novib,onl,International NGO,88,13,84,62
 Oxfam Solidarité-Solidariteit,oxsol,National NGO,88,66,83,79
 Oxfam Wereldwinkels,oww,National NGO,50,66,84,67
 Oxfam-Magasins du monde (omdm),omdm,National NGO,50,66,82,66
-Oxford Policy Management,opml,Private Sector,25,60,67,51
+Oxford Policy Management,opml,Private Sector,25,58,67,50
 Pact,pact,International NGO,0,0,0,0
-Palladium International Ltd (UK),palladium,Private Sector,75,0,76,50
+Palladium International Ltd (UK),palladium,Private Sector,63,0,76,46
 Palliative Care Association of Malawi,pacam,National NGO,88,33,83,68
 Palliative Care Support Trust,pcst,National NGO,88,33,77,66
 Panos Institute West Africa (PIWA),ipao,International NGO,38,0,54,31
@@ -711,9 +711,9 @@ Partnership for African Social & Governance Research (PASGR),pasgr,"Academic, Tr
 partos,partos_nl,National NGO,50,26,69,48
 Pastoralist Girls Initiative,pgi_kenya,National NGO,0,0,68,23
 PATH,_path_,International NGO,63,100,74,79
-PAX,pax,International NGO,75,23,80,59
+PAX,pax,International NGO,75,24,80,60
 Peace Direct,peacedirect,International NGO,50,100,65,72
-PEAS (Promoting Equality in African Schools),peas,International NGO,38,33,59,43
+PEAS (Promoting Equality in African Schools),peas,International NGO,25,33,59,39
 Penal Reform International,pri,International NGO,38,33,80,50
 People In Aid,peopleinaid,International NGO,0,0,71,24
 People in Need,pin,International NGO,63,0,68,44
@@ -722,7 +722,7 @@ PHASE Worldwide,phase_worldwide,International NGO,63,33,74,57
 Plan International Belgium,pib,National NGO,25,66,93,61
 Plan International Finland,planinternationalfinland,International NGO,0,0,0,0
 Plan International Netherlands,plannlno,International NGO,75,0,85,53
-Plan International UK,plan_uk,International NGO,88,23,69,60
+Plan International UK,plan_uk,International NGO,75,23,69,56
 Plan International USA,plan_usa,International NGO,0,0,74,25
 Plan Ireland Charitable Assistance Limited,plan_ireland,International NGO,0,0,0,0
 PlanBørnefonden,plb,International NGO,50,33,72,52
@@ -734,11 +734,11 @@ Population Services Kenya,pskenya_19,National NGO,38,9,68,38
 PositiveNegatives,posneg,Other Public Sector,0,0,71,24
 Power International,power,International NGO,0,0,71,24
 PRACTICA Foundation,practica,Foundation,25,0,80,35
-Practical Action,pa,International NGO,63,39,71,58
+Practical Action,pa,International NGO,63,41,71,58
 Pragya India,pragya,National NGO,0,0,0,0
 PRI Association,pri_icf,"Academic, Training and Research",25,0,0,8
 PricewaterhouseCoopers Private Limited India,pwcplindia,Private Sector,88,0,78,55
-Prince Claus Fund,pcf,International NGO,63,14,84,54
+Prince Claus Fund,pcf,International NGO,63,13,84,53
 Private Infrastructure Development Group,pidg,Multilateral,13,0,83,32
 Progressio,progressio,International NGO,0,0,46,15
 Project Harar,phe,International NGO,0,0,0,0
@@ -755,7 +755,7 @@ Rahnuma-Family Planning Assocation of Pakistan,rfpap,National NGO,0,0,0,0
 Railway Children,rc,International NGO,88,11,69,56
 Railway Children Africa,rc2africa,National NGO,0,0,60,20
 RAIN Foundation (former),rainfoundation,International NGO,0,0,70,23
-Rainforest Alliance,rainforest-alliance,International NGO,50,0,71,40
+Rainforest Alliance,rainforest-alliance,International NGO,38,0,71,36
 Rainforest Foundation UK,rfuk,International NGO,0,0,0,0
 Raleigh International,raleigh_int,International NGO,88,33,78,66
 RCN Justice & Démocratie,rcn,National NGO,63,66,93,74
@@ -768,8 +768,8 @@ Relief International UK,ri-uk,International NGO,0,0,83,28
 Republic of Korea,odakorea,Government,75,0,69,48
 Resilience,resilience,"Academic, Training and Research",13,66,70,50
 Resource Extraction Monitoring,rem,International NGO,0,0,0,0
-Responsible Mining Foundation,rmf,Foundation,13,0,0,4
-Restless Development,restless,International NGO,75,73,76,75
+Responsible Mining Foundation,rmf,Foundation,0,0,0,0
+Restless Development,restless,International NGO,75,100,76,84
 Results for Development,r4d,International NGO,38,100,77,72
 Retrak,retrak,International NGO,0,0,0,0
 Right to Play Netherlands Foundation,rtp,International NGO,0,0,0,0
@@ -842,17 +842,17 @@ Sound Seekers Limited,soundseekers,International NGO,25,0,0,8
 Southern African Catholic Bishops' Conference Aids Office,sacbc,Regional NGO,0,0,58,19
 SouthSouthNorth,ssn,International NGO,50,0,77,42
 Spain - Ministry of Foreign Affairs and Cooperation,maec,Government,0,0,77,26
-Spanish Agency for International Development Cooperation (AECID),aecid,Government,63,5,82,50
+Spanish Agency for International Development Cooperation (AECID),aecid,Government,63,6,82,50
 SPARK,spark,International NGO,63,8,71,47
 Special Hope Network,shn,International NGO,13,0,0,4
-Stakeholder Democracy Network,sdn,International NGO,63,0,80,48
+Stakeholder Democracy Network,sdn,International NGO,50,0,80,43
 Stars Foundation,starsfoundation,Foundation,0,0,60,20
 Stichting ActionAId,aanl,International NGO,13,33,80,42
 Stichting Aflatoun International,aflatoun,International NGO,0,0,0,0
 Stichting Agriterra,agriterra,Foundation,50,0,83,44
 Stichting Aidenvironment,aidenvironment,Foundation,38,0,88,42
 Stichting Beheer Subsidiegelden DRA,stichting-subsidiegelden-dra,International NGO,13,0,0,4
-Stichting Deltares,deltares,Foundation,75,0,68,48
+Stichting Deltares,deltares,Foundation,63,0,68,44
 Stichting fondsbeheer DGGF lokaal MKB,dggf_financing_local_smes,Foundation,38,52,80,57
 Stichting Health Action International,hai,Foundation,50,94,82,75
 Stichting Humana,humana_houben,International NGO,0,0,60,20
@@ -871,8 +871,8 @@ Stromme Foundation,stromme_ug,National NGO,0,0,0,0
 Studio Globo,sg,"Academic, Training and Research",25,44,82,50
 Support Trust for Africa Development (STAD),stad,International NGO,25,0,0,8
 Survivors Fund (SURF),surf,International NGO,63,0,58,40
-"Sweden, through Swedish International Development Cooperation Agency (Sida)",sida,Government,88,52,72,71
-Switzerland - Swiss Agency for Development and Cooperation (SDC),sdc_ch,Government,75,0,68,48
+"Sweden, through Swedish International Development Cooperation Agency (Sida)",sida,Government,88,53,72,71
+Switzerland - Swiss Agency for Development and Cooperation (SDC),sdc_ch,Government,63,0,68,44
 Sympany+,simone_sympany,International NGO,0,0,0,0
 Syria Relief,sr,National NGO,0,0,55,18
 Tameer-e-Khalaq Foundation,tkf1234,National NGO,38,0,74,37
@@ -893,7 +893,7 @@ The Coca-Cola Export Corporation,tccec,Private Sector,0,0,0,0
 The Commonwealth Secretariat,commonwealthsecretariat,Multilateral,75,29,63,56
 The Convention on Business Integrity,cbi-nigeria,International NGO,0,0,0,0
 The Foundation Center,foundation_center,International NGO,0,0,49,16
-The Fred Hollows Foundation (UK),fhfuk,International NGO,75,66,79,73
+The Fred Hollows Foundation (UK),fhfuk,International NGO,63,66,79,69
 The Freedom Fund,thefreedomfund,International NGO,0,0,0,0
 The Global Alliance for Improved Nutrition,gain,International NGO,38,0,65,34
 "The Global Development Incubator, Inc",gdi,International NGO,88,66,80,78
@@ -902,7 +902,7 @@ The Global Forum on MSM & HIV (MSMGF),msmgf,International NGO,0,0,66,22
 The HALO Trust,halo,International NGO,63,33,84,60
 The Hunger Project Netherlands,thp_org,International NGO,25,0,82,36
 The International Children's Trust,theict,International NGO,0,0,63,21
-The International Rescue Committee,irc_inc,International NGO,75,45,84,68
+The International Rescue Committee,irc_inc,International NGO,75,46,84,68
 The Leprosy Mission England and Wales,tlmew,International NGO,0,0,0,0
 The Louis Berger Group Inc.,lbg,Private Sector,63,100,86,83
 The Mailman School of Public Health,mailman_school_of_public_health,"Academic, Training and Research",50,100,59,70
@@ -923,8 +923,8 @@ The William and Flora Hewlett Foundation,hewlett-foundation,Foundation,88,0,74,5
 The World Bank,worldbank,Multilateral,88,96,86,90
 Theatre for a Change Malawi,tfacmalawi,National NGO,0,0,0,0
 Theatre for a Change UK,tfac,International NGO,0,0,0,0
-Timidria,timidria,National NGO,25,33,58,39
-TradeMark East Africa,tmea,Regional NGO,63,0,63,42
+Timidria,timidria,National NGO,13,33,58,35
+TradeMark East Africa,tmea,Regional NGO,50,0,63,38
 Traidcraft Exchange,traidcraft,International NGO,63,66,89,73
 transforma,transforma,National NGO,13,0,58,24
 Transnational Institute,tni,Foundation,50,0,79,43
@@ -952,8 +952,8 @@ UHAI EASHRI,uhai-eashri,Foundation,0,0,66,22
 "UK - Department for Environment, Food and Rural Affairs",defra_transparency,Government,88,44,81,71
 UK - Department for International Development (DFID),dfid,Government,88,60,84,77
 UK - Department for Work and Pensions,dwp,Government,0,100,61,54
-UK - Department of Health and Social Care (DHSC),dhsc,Government,88,47,87,74
-UK - Foreign & Commonwealth Office,fco,Government,88,0,82,57
+UK - Department of Health and Social Care (DHSC),dhsc,Government,75,47,87,70
+UK - Foreign & Commonwealth Office,fco,Government,75,0,82,52
 UK - Home Office,homeoffice,Government,50,0,88,46
 UK - Medical Research Council,mrc,Government,0,0,72,24
 UK - Ministry of Defence,ukmod,Government,50,0,78,43
@@ -965,20 +965,20 @@ UN Pooled Funds,unpf,Multilateral,13,0,57,23
 UN Women,unw,Multilateral,13,77,87,59
 UN-Habitat,unhabitat,Multilateral,13,0,0,4
 Unicef Belgium National Committee,ub,National NGO,25,66,85,59
-UNICEF Netherlands National Committee,unicefnl,National NGO,75,0,79,51
+UNICEF Netherlands National Committee,unicefnl,National NGO,63,0,79,47
 Unie van Waterschappen,uvw,Other Public Sector,50,0,69,40
-Union des Villes et Communes de Wallonie (UVCW),uvcw,Other Public Sector,63,66,85,71
+Union des Villes et Communes de Wallonie (UVCW),uvcw,Other Public Sector,50,66,85,67
 Union of Agricultural Work Committees,uawc,National NGO,13,0,0,4
-UNITAID,utd,Multilateral,88,76,73,79
-United Disabled Persons of Kenya,udpk,National NGO,75,0,92,56
-United Mission to Nepal,umn,International NGO,13,0,0,4
+UNITAID,utd,Multilateral,88,75,73,79
+United Disabled Persons of Kenya,udpk,National NGO,63,0,92,52
+United Mission to Nepal,umn,International NGO,0,0,0,0
 United Nations Capital Development Fund,uncdf,Multilateral,50,24,81,52
 United Nations Central Emergency Response Fund (CERF),cerf,Multilateral,88,100,85,91
 United Nations Children's Fund (UNICEF),unicef,Multilateral,88,100,97,95
 United Nations Development Programme (UNDP),undp,Multilateral,88,67,88,81
 "United Nations Educational, Scientific and Cultural Organization (UNESCO)",unesco,Multilateral,0,57,73,43
 United Nations Environment Programme (UNEP),un-environment,Multilateral,0,0,55,18
-United Nations Foundation,unf,National NGO,63,8,68,46
+United Nations Foundation,unf,National NGO,50,8,68,42
 United Nations High Commissioner for Refugees (UNHCR),unhcr,Multilateral,88,66,89,81
 United Nations Industrial Development Organization (UNIDO),unido,Multilateral,75,29,70,58
 United Nations Joint Programme on HIV and AIDS Secretariat (UNAIDS),unaids,Multilateral,25,0,0,8
@@ -990,7 +990,7 @@ United Nations Population Fund,unfpa,Multilateral,75,0,93,56
 United Nations World Food Programme (WFP),wfp,Multilateral,88,100,97,95
 United Purpose,cu,International NGO,0,0,62,21
 United States,unitedstates,Government,88,0,84,57
-United States Agency for International Development (USAID),usaid,Government,88,0,77,55
+United States Agency for International Development (USAID),usaid,Government,75,0,77,51
 United Work,united_work,National NGO,25,0,0,8
 Universitair Centrum voor Ontwikkelingssamenwerking,ucos,National NGO,50,66,84,67
 Universiteit Leiden,universiteit_leiden,"Academic, Training and Research",75,100,83,86
@@ -1013,7 +1013,7 @@ Varkey Foundation,varkeyfoundation,International NGO,50,0,59,36
 VEI (Vitens-Evides International),vei_nl,Private Sector,75,66,82,74
 VETERINAIRES SANS FRONTIERES / DIERENARTSEN ZONDER GRENZEN - BELGIUM,vsfbelgium,National NGO,50,66,86,67
 VIA Don Bosco,via-db,National NGO,13,66,82,54
-Village Enterprise,villageenterprise,International NGO,50,33,77,53
+Village Enterprise,villageenterprise,International NGO,63,33,77,58
 Village Water Ltd,villagewater,International NGO,63,0,62,42
 Vision Aid Overseas,vao,International NGO,0,0,74,25
 Vision for a Nation Foundation,vfan,International NGO,0,0,71,24
@@ -1040,22 +1040,22 @@ Water for People,w4p,International NGO,0,0,0,0
 Water Integrity Network Association,win,International NGO,13,0,61,25
 Water Witness International,water-witness-international,International NGO,25,0,60,28
 Water Works,waterworks,International NGO,0,0,0,0
-WaterAid,wateraid,International NGO,75,22,75,57
+WaterAid,wateraid,International NGO,63,22,75,53
 We Effect,weeffect,International NGO,0,0,77,26
-We World - GVC Onlus,ww-gvc,International NGO,63,83,85,77
+We World - GVC Onlus,ww-gvc,International NGO,50,83,85,73
 Welbodi Partnership,welbodipartnership,"Academic, Training and Research",0,0,0,0
 Wellfound,wellfound,International NGO,88,0,73,54
 Welthungerhilfe,whh,International NGO,0,82,66,49
 Wemos Foundation,wemos,International NGO,0,33,83,39
 Wereldsolidariteit-Solidarité Mondiale (WSM),wsm,National NGO,50,66,87,68
 Westminster Foundation for Democracy,wfd,Other Public Sector,13,0,52,22
-Wetlands International,wi,International NGO,13,0,92,35
+Wetlands International,wi,International NGO,0,0,92,31
 Win Win Strategies,wws,International NGO,0,0,0,0
 Windle Trust Kenya,wtk,National NGO,0,0,63,21
 WNF Wereld Natuur Fonds,wnf,International NGO,50,33,79,54
 "WO=MEN, Dutch Gender Platform",wo-men,National NGO,38,12,75,42
 Wolayita Development Association,woda_0486,"Academic, Training and Research",25,0,0,8
-Womankind Worldwide,womankindworld,International NGO,13,33,67,38
+Womankind Worldwide,womankindworld,International NGO,0,33,67,33
 Women and Children First (UK),wcf,International NGO,0,0,0,0
 Women Engage for a Common Future,wecf,International NGO,13,0,55,23
 Women Environmental Programme,wep,National NGO,50,0,66,39
@@ -1063,7 +1063,7 @@ Women for Women International (UK),wfwiuk,International NGO,63,100,79,81
 Women Peacemakers Program,wpp,International NGO,0,0,86,29
 Women's Action Group,wag-1983,National NGO,0,0,74,25
 Women's Environment & Development Organization,wedo,International NGO,63,33,80,59
-Women's Fund Asia,wf-asia,Regional NGO,88,0,67,52
+Women's Fund Asia,wf-asia,Regional NGO,75,0,67,47
 Women's Global Network on Reproductive Rights,wgnrr_iati,International NGO,25,0,89,38
 Women's Refugee Commission,w_r_c,International NGO,0,0,69,23
 World Agroforestry Centre,icraf_,"Academic, Training and Research",0,0,0,0
