@@ -10,10 +10,10 @@ Abt Britain Limited,abtbritain,3,3,3,3,2,1,100,67,33
 Academy for Health Development (AHEAD),ahead,1,1,1,0,0,0,0,0,0
 Académie de recherche et d'enseignement supérieur,ares,22,22,0,21,21,0,95,95,-
 Accelerator Nepal,acceleratornepal,1,1,1,1,0,0,100,0,0
-Access to Medicine Foundation,atmf,0,0,0,0,0,0,-,-,-
+Access to Medicine Foundation,atmf,1,0,0,1,0,0,100,-,-
 Access to Seeds Foundation,atsf,0,0,0,0,0,0,-,-,-
 Accountability Lab,alab,1,1,0,0,0,0,0,0,-
-Accountable Now,accountablenow,1,1,1,0,0,0,0,0,0
+Accountable Now,accountablenow,1,1,1,1,0,0,100,0,0
 Acid Survivors Foundation,_admin,1,1,1,0,0,0,0,0,0
 ACODEV,acodev,5,5,0,5,5,0,100,100,-
 Across,across,0,0,0,0,0,0,-,-,-
@@ -31,7 +31,7 @@ ACTIONAID INTERNATIONAL KENYA,aaik,2,2,1,2,2,1,100,100,100
 ActionAid Rwanda,aar,2,1,1,2,1,1,100,100,100
 ActionAid UK,aauk,8,6,0,7,4,0,88,67,-
 Acumen,acumen,2,2,1,2,2,1,100,100,100
-Adam Smith International,asi,9,8,8,0,0,0,0,0,0
+Adam Smith International,asi,12,10,9,3,2,1,25,20,11
 Adaptation Fund,af,28,28,28,0,0,0,0,0,0
 ADD International (Action on Disability and Development),addinternational,8,8,6,0,0,0,0,0,0
 Administração de Infra-Estruturas de Águas e Saneamento,aias,1,0,0,0,0,0,0,-,-
@@ -62,11 +62,11 @@ AfriKids,afrikids,0,0,0,0,0,0,-,-,-
 Aga Khan Foundation (United Kingdom),akfuk73,2,2,1,0,0,0,0,0,0
 Aga Khan Foundation Afghanistan,akf_afghanistan,2,2,1,0,0,0,0,0,0
 AgDevCo,agdevco,35,35,35,0,0,0,0,0,0
-Agence Française de Développement,afd,3476,3476,3476,520,0,0,15,0,0
+Agence Française de Développement,afd,3521,3521,3521,539,0,0,15,0,0
 Agence Nationale d'Approvisionnement en Eau Potable en Milieu Rural du Benin,anaepmr_benin,4,4,0,0,0,0,0,0,-
 Agency for Cooperation and Research in Development (ACORD),acord,3,3,3,0,0,0,0,0,0
 AgResults Initiative,agresults,4,4,2,2,1,0,50,25,0
-AgriProFocus,agriprofocus,0,0,0,0,0,0,-,-,-
+AgriProFocus,agriprofocus,1,0,0,1,0,0,100,-,-
 Agulhas Applied Knowledge,aak,1,1,1,1,1,1,100,100,100
 Agência de Desenvolvimento do Vale do Zambeze,agencia_do_zambeze,1,1,1,0,0,0,0,0,0
 AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,aics,759,715,597,0,0,0,0,0,0
@@ -77,7 +77,7 @@ Ajuda de Desenvolvimento de Povo para Povo (ADPP),adpp,1,1,1,0,0,0,0,0,0
 Aktis Strategy Ltd,aktis,2,2,2,0,0,0,0,0,0
 Akvo Foundation,akvo,22,4,4,0,0,0,0,0,0
 Alcis Holdings Limited,alcis,0,0,0,0,0,0,-,-,-
-Alfalit,alfalit,0,0,0,0,0,0,-,-,-
+Alfalit,alfalit,1,1,1,0,0,0,0,0,0
 All We Can (formerly Methodist Relief and Development Fund),allwecan,0,0,0,0,0,0,-,-,-
 Alliance of Religions and Conservation,alliance_of_religions_and_conservation,1,1,1,0,0,0,0,0,0
 American Friends Service Committee,afsc,0,0,0,0,0,0,-,-,-
@@ -92,7 +92,7 @@ Amref Health Africa in Tanzania,amreftz,2,2,2,0,0,0,0,0,0
 Amref Health Africa in Uganda,amrefug,1,0,0,0,0,0,0,-,-
 Amref Health Africa Malawi,amrefmw,3,1,1,0,0,0,0,0,0
 Ananda Marga Universal Relief Team (AMURT) Africa,amurt_kenya,1,1,1,0,0,0,0,0,0
-ANDA,anda,0,0,0,0,0,0,-,-,-
+ANDA,anda,1,1,1,0,0,0,0,0,0
 Anti-Slavery International,asil,3,3,1,2,0,0,67,0,0
 APPRO-Europe,appro-eu,0,0,0,0,0,0,-,-,-
 APT Action on Poverty,apt,1,1,0,1,1,0,100,100,-
@@ -101,7 +101,7 @@ Arab foundation for freedoms and equality,afemena,3,0,0,0,0,0,0,-,-
 ARK (Absolute Return for Kids),ark,0,0,0,0,0,0,-,-,-
 Article19,art19,0,0,0,0,0,0,-,-,-
 Ashoka East Africa,ashoka,1,1,0,0,0,0,0,0,-
-Asian Development Bank,asdb,606,537,392,606,537,392,100,100,100
+Asian Development Bank,asdb,613,542,396,613,542,396,100,100,100
 Association Centrafricaine de Traduction de la Bible et Alphabetisation,acatba,1,1,0,0,0,0,0,0,-
 Association for Cultural Technical and Educational Cooperation (ACTEC),actec,12,12,0,12,12,0,100,100,-
 Association for Progressive Communication,apc,1,0,0,0,0,0,0,-,-
@@ -110,9 +110,9 @@ Association for Women's Rights in Development (AWID),awid,13,0,0,0,0,0,0,-,-
 Association of Commonwealth Universities,acu,1,1,0,1,0,0,100,0,-
 Association pour la Promotion de l'Education et de la Formation à l'Etranger,apefe,17,17,0,16,16,0,94,94,-
 Atos IT Services Ltd,atosuk,3,3,3,0,0,0,0,0,0
-Atradius Dutch State Business,adsb,33,33,33,0,0,0,0,0,0
+Atradius Dutch State Business,adsb,44,44,44,0,0,0,0,0,0
 Auschwitz Institute for the Prevention of Genocide and Mass Atrocities,aipr,1,1,1,0,0,0,0,0,0
-Australia - Department of  Foreign Affairs and Trade,ausgov,2100,1852,1283,0,0,0,0,0,0
+Australia - Department of  Foreign Affairs and Trade,ausgov,2099,1853,1274,95,0,0,5,0,0
 Auto-Développement Afrique (ADA),ada,2,2,0,2,2,0,100,100,-
 Autre Terre asbl,a-t,6,6,0,6,6,0,100,100,-
 Avanti Communications Plc,ava_admin,1,1,1,1,0,0,100,0,0
@@ -126,19 +126,21 @@ Balloon Ventures Foundation,bvf,1,1,1,1,1,0,100,100,0
 Bangladesh Nari Progati Sangha,bnps,0,0,0,0,0,0,-,-,-
 BasicNeeds,basicneeds,6,6,5,1,0,0,17,0,0
 Baylor College of Medicine Children's Foundation Malawi,bcm-cf,0,0,0,0,0,0,-,-,-
-BBC Media Action,bbcmediaaction,6,3,2,0,0,0,0,0,0
+BBC Media Action,bbcmediaaction,7,4,3,0,0,0,0,0,0
 BDO LLP,bdo,1,1,1,1,1,0,100,100,0
 Bees Abroad UK,bauk,0,0,0,0,0,0,-,-,-
 Bees for Development Trust,beesfordevelopment,1,1,1,1,1,1,100,100,100
-Belgian development agency (Enabel),enabel,192,176,136,0,0,0,0,0,0
-Belgian Development Cooperation,be-dgd,453,419,276,234,159,37,52,38,13
+Belgian development agency (Enabel),enabel,186,172,133,0,0,0,0,0,0
+Belgian Development Cooperation,be-dgd,466,432,288,248,167,38,53,39,13
 Benelux Afro Center,bac,4,4,0,4,4,0,100,100,-
-Berytech Foundation,berytech,0,0,0,0,0,0,-,-,-
+Berytech Foundation,berytech,1,1,1,1,0,0,100,0,0
 Beweging voor Internationale Solidariteit - Mouvement pour la Solidarité Internationale,bismsi,2,2,0,2,2,0,100,100,-
+Bibliothèques Sans Frontières,bsf1,1,1,1,0,0,0,0,0,0
 Bill & Melinda Gates Foundation,bmgf,0,0,0,0,0,0,-,-,-
 Bioclimate Research and Development,bioclimate,0,0,0,0,0,0,-,-,-
 Blue Ventures Conservation,blueventures,0,0,0,0,0,0,-,-,-
 Bond,bond,1,1,1,0,0,0,0,0,0
+BoP Innovation Center,bopinc,1,1,1,0,0,0,0,0,0
 BOS+ tropen,bos_plus_tropen,15,15,1,0,0,0,0,0,0
 Boston University,bu-carbx-admin,3,3,2,0,0,0,0,0,0
 Both ENDS,bothends,12,0,0,0,0,0,0,-,-
@@ -150,7 +152,7 @@ British & Irish Agencies Afghanistan Group,baag,1,1,0,1,0,0,100,0,-
 British Asian Trust,b_a_t,1,1,1,0,0,0,0,0,0
 British Council,britishcouncil,12,11,3,2,1,0,17,9,0
 British Red Cross,gb-chc-220949,126,126,126,55,40,22,44,32,17
-Broederlijk Delen,bd,17,17,0,16,16,0,94,94,-
+Broederlijk Delen,bd,16,16,0,16,16,0,100,100,-
 Brujula Comunicaciones Estrategicas SAS,brujula,0,0,0,0,0,0,-,-,-
 Brulocalis,brulocalis,5,5,0,5,5,0,100,100,-
 BSR,bsr_admin,5,5,5,0,0,0,0,0,0
@@ -161,8 +163,8 @@ Business in the Community,bitc,1,1,1,0,0,0,0,0,0
 C40 Cities Climate Leadership Group,c40cities,1,1,1,0,0,0,0,0,0
 CABI,cabi,2,1,0,0,0,0,0,0,-
 Camfed International,camfed,5,5,2,5,4,1,100,80,50
-Canada - Global Affairs Canada | Affaires mondiales Canada,gac-amc,507,437,233,402,246,116,79,56,50
-Canada - International Development Research Centre/Centre de recherches pour le développement international,idrccrdi,511,463,239,0,0,0,0,0,0
+Canada - Global Affairs Canada | Affaires mondiales Canada,gac-amc,542,470,256,428,266,130,79,57,51
+Canada - International Development Research Centre/Centre de recherches pour le développement international,idrccrdi,510,463,239,0,0,0,0,0,0
 Canada Department of Finance / Ministère des Finances Canada,finance_canada,0,0,0,0,0,0,-,-,-
 Canon Collins Trust,canoncollinstrust,0,0,0,0,0,0,-,-,-
 Carbon Trust Advisory Ltd,carbontrustadvisory,1,1,1,1,1,1,100,100,100
@@ -182,9 +184,10 @@ Caritas Denmark,caritas_denmark,61,60,0,31,30,0,51,50,-
 Caritas Finland,caritasfin,2,1,1,0,0,0,0,0,0
 Caritas International (Belgium),cibe,9,9,0,9,9,0,100,100,-
 Caritas Serbia,caritas_serbia,0,0,0,0,0,0,-,-,-
-Catholic Agency For Overseas Development (CAFOD),cafod,126,92,36,7,2,0,6,2,0
-Catholic Relief Services,crs,6,5,1,5,2,0,83,40,0
+Catholic Agency For Overseas Development (CAFOD),cafod,182,129,51,33,2,0,18,2,0
+Catholic Relief Services,crs,6,5,2,5,2,0,83,40,0
 CDA Collaborative Learning Projects,cda,4,4,4,0,0,0,0,0,0
+CDAC Network,cdacnetwork,0,0,0,0,0,0,-,-,-
 CDC Group plc,cdc,169,169,169,0,0,0,0,0,0
 Cecily's Fund,cecily,1,1,1,0,0,0,0,0,0
 Center for Civilians in Conflict,civic_admin,4,4,4,3,3,0,75,75,0
@@ -216,9 +219,9 @@ ChildHope UK,childhopeuk,3,3,1,2,1,0,67,33,0
 Children in Crisis,cic,0,0,0,0,0,0,-,-,-
 Children in Crossfire,cicni,1,1,1,1,1,1,100,100,100
 CHOICE for Youth and Sexuality,cfyas,12,0,0,8,0,0,67,-,-
-Christian Aid,caid,106,78,13,0,0,0,0,0,0
+Christian Aid,caid,104,78,13,0,0,0,0,0,0
 Christian Aid Ireland,caid_ireland,0,0,0,0,0,0,-,-,-
-Christian Blind Mission (UK) Ltd.,cbm,4,4,4,1,1,0,25,25,0
+Christian Blind Mission (UK) Ltd.,cbm,6,6,6,1,1,0,17,17,0
 Christian Engineers in Development,ced,0,0,0,0,0,0,-,-,-
 CIFAL Scotland,cifal,0,0,0,0,0,0,-,-,-
 CINI,cini_jhk,0,0,0,0,0,0,-,-,-
@@ -265,7 +268,7 @@ Conciliation Resources,cr,3,3,3,1,1,1,33,33,33
 Concordis International,concordis,1,1,0,1,1,0,100,100,-
 Conflict Dynamics International,cdi,1,1,0,0,0,0,0,0,-
 "Conflict, Stability and Security Fund",cssf,0,0,0,0,0,0,-,-,-
-Congodorpen vzw,congodorpen,5,5,0,5,5,0,100,100,-
+Congodorpen vzw,congodorpen,5,5,0,4,4,0,80,80,-
 Consortium for Street Children,csc,1,1,0,0,0,0,0,0,-
 Construction Sector Transparency Initiative (CoST),cost_uk,30,30,30,0,0,0,0,0,0
 Coopération par l'Education et la Culture,cec,2,2,1,2,2,0,100,100,0
@@ -288,9 +291,9 @@ dance4life,dance4life,8,0,0,0,0,0,0,-,-
 DanChurchAid,dca,2,2,0,0,0,0,0,0,-
 Danish Family Planning Association,dfpa,1,1,0,1,1,0,100,100,-
 Danish Red Cross,danishrc,4,4,4,0,0,0,0,0,0
-Danish Refugee Council,drc,10,9,2,5,3,1,50,33,50
+Danish Refugee Council,drc,11,10,3,6,4,2,55,40,67
 Danish Trade Union Development Agency (Ulandssekretariatet),loftf,1,1,1,1,0,0,100,0,0
-Danmission,danmission,1,1,0,1,1,0,100,100,-
+Danmission,danmission,16,15,0,14,12,0,88,80,-
 Dansk Missionråds Udviklingsafdeling,dmru,3,2,2,2,0,0,67,0,0
 Data4Development,d4d,0,0,0,0,0,0,-,-,-
 David Gordon Memorial Hospital,dgmh,1,1,0,1,0,0,100,0,-
@@ -302,11 +305,12 @@ Delivery Associates Ltd,delivery_associates,0,0,0,0,0,0,-,-,-
 Deloitte Touche Tohmatsu India LLP,dttillp,1,0,0,0,0,0,0,-,-
 Democracy Reporting International gGmbH,dri,1,1,1,1,1,1,100,100,100
 Democratic Governance Facility,dgf,3,3,3,3,3,3,100,100,100
-"Denmark - Ministry of Foreign Affairs, Danida",danida,4858,4858,4853,662,353,122,14,7,3
+"Denmark - Ministry of Foreign Affairs, Danida",danida,4853,4853,4848,696,359,125,14,7,3
 Department for International Trade,dit,1,1,1,0,0,0,0,0,0
 Desmond Tutu HIV Foundation,dthfxx12,4,4,4,0,0,0,0,0,0
 Development Aid from People to People (DAPP) Malawi,dapp,3,3,3,0,0,0,0,0,0
-Development Initiatives Poverty Research,dipr,1,0,0,0,0,0,0,-,-
+Development Initiatives Poverty Research,dipr,12,4,1,0,0,0,0,0,0
+Development Media International,dmi_admin,1,1,0,0,0,0,0,0,-
 Development Organisation of the Rural Poor,dorp-org,0,0,0,0,0,0,-,-,-
 Developments In Literacy Trust UK,diltuk,0,0,0,0,0,0,-,-,-
 Diakonia Sweden,diakonia802017-3517,334,0,0,0,0,0,0,-,-
@@ -320,7 +324,7 @@ Disasters Emergency Committee,dec-uk,1,1,1,0,0,0,0,0,0
 "Discovery Learning Alliance, Inc.",dla,0,0,0,0,0,0,-,-,-
 Djapo,djapo,2,2,0,2,2,0,100,100,-
 DKT - (Pakistan),dkt,1,1,1,0,0,0,0,0,0
-DKT Ethiopia,dkt_ethiopia,6,6,6,0,0,0,0,0,0
+DKT Ethiopia,dkt_ethiopia,12,12,12,0,0,0,0,0,0
 DNH Mali (Direction Nationale de l’Hydraulique du Mali),pca-gire,0,0,0,0,0,0,-,-,-
 Doctors of the World UK,dotw_uk,0,0,0,0,0,0,-,-,-
 Doctors with Africa CUAMM,cuamm,1,1,0,0,0,0,0,0,-
@@ -353,15 +357,15 @@ Entraide et Fraternité,ef_,11,11,0,11,11,0,100,100,-
 Environmental Centre for Oil Spills and Gas Flaring (NACGOND),nacgond-,14,14,14,0,0,0,0,0,0
 equileap,equileap,1,1,1,0,0,0,0,0,0
 Ethical Trading Initiative,eti,8,8,8,0,0,0,0,0,0
-Ethiopiaid UK,ethiopiaiduk,31,31,31,0,0,0,0,0,0
+Ethiopiaid UK,ethiopiaiduk,33,33,33,0,0,0,0,0,0
 Ethiopian Horticulture Producer Exporters Association (EHPEA),ehpea,0,0,0,0,0,0,-,-,-
-European Bank for Reconstruction and Development,ebrd,662,656,632,0,0,0,0,0,0
-European Commission - Directorate-General for International Cooperation and Development,ec-devco,5179,4105,2364,3916,2561,627,76,62,27
-European Commission - Humanitarian Aid & Civil Protection,ec-echo,106,52,1,93,49,1,88,94,100
-European Commission - Neighbourhood and Enlargement Negotiations,ec-near,2215,1724,874,1492,1253,520,67,73,59
-European Commission - Service for Foreign Policy Instruments,ec-fpi,276,196,64,0,0,0,0,0,0
+European Bank for Reconstruction and Development,ebrd,661,656,632,0,0,0,0,0,0
+European Commission - Directorate-General for International Cooperation and Development,ec-devco,5266,4204,2421,3969,2598,637,75,62,26
+European Commission - Humanitarian Aid & Civil Protection,ec-echo,218,125,2,205,122,2,94,98,100
+European Commission - Neighbourhood and Enlargement Negotiations,ec-near,2261,1770,907,1512,1264,525,67,71,58
+European Commission - Service for Foreign Policy Instruments,ec-fpi,290,207,68,0,0,0,0,0,0
 European Institute of Peace,eip,5,5,5,0,0,0,0,0,0
-European Investment Bank,eib,409,404,395,409,0,0,100,0,0
+European Investment Bank,eib,469,469,469,469,0,0,100,0,0
 European Journalism Centre,ejc,6,6,6,1,0,0,17,0,0
 EveryChild,evc,0,0,0,0,0,0,-,-,-
 Excellent Development,excellent,0,0,0,0,0,0,-,-,-
@@ -384,13 +388,13 @@ FHI360,fhi360,1,1,1,0,0,0,0,0,0
 Fiabel,fiabel,5,5,5,5,5,0,100,100,0
 FIAN Belgium,fian-belgium,4,4,0,4,4,0,100,100,-
 Find Your Feet,fyf,1,1,1,0,0,0,0,0,0
-Finland - Ministry for Foreign Affairs,finland_mfa,1424,914,459,680,366,117,48,40,25
+Finland - Ministry for Foreign Affairs,finland_mfa,1446,924,465,703,374,120,49,40,26
 FMO,fmo,262,262,262,0,0,0,0,0,0
 FONCABA ASBL KBA VZW,foncaba,4,4,0,3,3,0,75,75,-
 Fondation Hirondelle,fh_ch,0,0,0,0,0,0,-,-,-
 Fondo Centroamericano de Mujeres,fcam,6,0,0,0,0,0,0,-,-
 Fonds voor Ontwikkelingssamenwerking - Socialistische Solidariteit VZW,fos,14,14,0,14,14,0,100,100,-
-Food and Agriculture Organization of the United Nations (FAO),fao,466,305,107,0,0,0,0,0,0
+Food and Agriculture Organization of the United Nations (FAO),fao,918,602,190,37,0,0,4,0,0
 Food for the Hungry UK,fh,3,3,2,2,2,1,67,67,50
 Forests Monitor,fm,0,0,0,0,0,0,-,-,-
 Forum Universitaire pour la Coopération Internationale au Développement -FUCID ASBL,fucid,5,5,0,5,5,0,100,100,-
@@ -402,14 +406,14 @@ Freedom Forum,ff,0,0,0,0,0,0,-,-,-
 Friends of Kipkelion,kipkelion,0,0,0,0,0,0,-,-,-
 Friends of Publish What You Fund,friendsofpwyf,2,2,2,0,0,0,0,0,0
 "Friends of the Earth England, Wales and Northern Ireland",foe_ewni,0,0,0,0,0,0,-,-,-
-Friends of the Earth International,foei,3,0,0,1,0,0,33,-,-
+Friends of the Earth International,foei,3,0,0,3,0,0,100,-,-
 Friends of the Earth-Ghana,foe-ghana,1,1,1,0,0,0,0,0,0
 Frontline AIDS,f-aids,16,6,0,8,0,0,50,0,-
 Fundacion Acceso,fundacion-acceso,0,0,0,0,0,0,-,-,-
 Fundación Fondo Mujeres del Sur,fms,5,4,4,0,0,0,0,0,0
 Fundación Oriéntame,orientame,1,1,1,0,0,0,0,0,0
 Fundo de Investimento e Patrimonio do Abastecimento de Água (FIPAG),fipag,1,1,1,0,0,0,0,0,0
-"Gavi, the vaccine alliance",gavi,244,119,35,244,119,35,100,100,100
+"Gavi, the vaccine alliance",gavi,247,133,93,125,54,14,51,41,15
 GEF Secretariat,gef,4,4,3,3,3,3,75,75,100
 GEMS Education Solutions,mgcubed,0,0,0,0,0,0,-,-,-
 Gender Links,gl,6,6,6,0,0,0,0,0,0
@@ -428,7 +432,7 @@ Global Canopy,globalcanopy,1,1,0,1,0,0,100,0,-
 Global Focus,globaltfokus,2,2,2,0,0,0,0,0,0
 Global Fund to End Modern Slavery,gfems,1,1,1,1,0,0,100,0,0
 Global Green Growth Institute (GGGI),gggi,3,0,0,0,0,0,0,-,-
-Global Innovation Fund,gif,23,21,15,0,0,0,0,0,0
+Global Innovation Fund,gif,26,24,18,0,0,0,0,0,0
 Global Network of People Living with HIV (GNP+),gnpplus,7,7,7,0,0,0,0,0,0
 Global Network of Sex Work Projects (NSWP),nswp,2,0,0,2,0,0,100,-,-
 Global Partnership for Education,gpe,11,11,11,0,0,0,0,0,0
@@ -446,8 +450,8 @@ Haiti Hospital Appeal,hha,0,0,0,0,0,0,-,-,-
 Hand in Hand International,handinhand,1,1,1,0,0,0,0,0,0
 Handicap International Belgique,hib,18,16,0,18,15,0,100,94,-
 Handicap International Federation,hi_fed,0,0,0,0,0,0,-,-,-
-Handicap International UK,hiuk,7,6,5,4,1,0,57,17,0
-HE Foundation,hefoundation,1,0,0,0,0,0,0,-,-
+Handicap International UK,hiuk,8,7,5,5,1,0,63,14,0
+HE Foundation,hefoundation,1,0,0,1,0,0,100,-,-
 Health Insurance Fund,hif,1,1,0,1,1,0,100,100,-
 Health Poverty Action,hpa,0,0,0,0,0,0,-,-,-
 HealthNet TPO,healthnet,0,0,0,0,0,0,-,-,-
@@ -473,7 +477,7 @@ Human Relief Foundation,hrf,0,0,0,0,0,0,-,-,-
 Humanitarian Quality Assurance Initiative,hqai,1,1,1,1,0,0,100,0,0
 I Choose Life Africa,ke-ngc-3372,1,1,1,0,0,0,0,0,0
 ICA:UK,icauk,1,1,1,0,0,0,0,0,0
-ICCO Cooperation,icco-cooperation,46,19,3,26,8,1,57,42,33
+ICCO Cooperation,icco-cooperation,70,24,5,31,7,0,44,29,0
 ICF Consulting Services Ltd,icf,2,2,1,1,1,1,50,50,100
 ICS,ics,0,0,0,0,0,0,-,-,-
 iDE,ide,0,0,0,0,0,0,-,-,-
@@ -483,7 +487,7 @@ IDinsight,idinsight,2,2,2,1,0,0,50,0,0
 IFOAM - Organics International,ifoam,47,47,47,0,0,0,0,0,0
 IHE Delft Institute for Water Education,ihedelft,1,1,1,1,0,0,100,0,0
 Iles de Paix,idp,7,7,0,7,7,0,100,100,-
-IMA World Health,us-imawh,0,0,0,0,0,0,-,-,-
+IMA World Health,us-imawh,1,1,1,1,0,0,100,0,0
 IMC WORLDWIDE,imcw_admin,19,16,15,4,2,2,21,13,13
 IMD Moçambique,imdmozambique,2,2,2,0,0,0,0,0,0
 Impunity Watch,iw_admin,1,1,1,0,0,0,0,0,0
@@ -502,7 +506,7 @@ Integrity Research and Consultancy Ltd,integrity,2,2,2,0,0,0,0,0,0
 Inter-American Development Bank,iadb,334,277,173,334,277,173,100,100,100
 Interact Worldwide,iww_publish,0,0,0,0,0,0,-,-,-
 InterAction,interaction,0,0,0,0,0,0,-,-,-
-InterAction's NGO Aid Map,ia_nam,537,350,219,0,0,0,0,0,0
+InterAction's NGO Aid Map,ia_nam,541,355,222,0,0,0,0,0,0
 interburns,interburns,0,0,0,0,0,0,-,-,-
 InterClimate Network,icn,1,1,1,0,0,0,0,0,0
 International Aids Vaccine Initiative (IAVI),iavi,0,0,0,0,0,0,-,-,-
@@ -516,12 +520,12 @@ International Climate Initiative / BMU - IKI Secretariat,bmu_iki,111,93,37,0,0,0
 International Committee of the Red Cross (ICRC),icrc,0,0,0,0,0,0,-,-,-
 International Council of Voluntary Agencies,icva,0,0,0,0,0,0,-,-,-
 International Crisis Group,crisisgroup,1,1,1,1,1,1,100,100,100
-International Development Law Organization (IDLO),idlo,31,18,5,0,0,0,0,0,0
+International Development Law Organization (IDLO),idlo,33,18,5,0,0,0,0,0,0
 International Federation of Accountants,ifac,2,2,1,0,0,0,0,0,0
 International Federation of the Red Cross and Red Crescent (IFRC),ifrcrcs,142,97,36,7,0,0,5,0,0
 International Fertilizer Development Center,ifdc-us,1,1,1,0,0,0,0,0,0
 International Finance Corporation,ifcwbg,5271,5271,5271,10,0,0,0,0,0
-International Fund for Agricultural Development (IFAD),ifad,235,227,190,0,0,0,0,0,0
+International Fund for Agricultural Development (IFAD),ifad,235,228,190,0,0,0,0,0,0
 International IDEA,idea,0,0,0,0,0,0,-,-,-
 International Indigenous Women Forum,fimi_iiwf_2019,3,2,2,0,0,0,0,0,0
 International Initiative for Impact Evaluation,3ie,0,0,0,0,0,0,-,-,-
@@ -533,15 +537,15 @@ International Network for Advancing Science and Policy,inasp,1,1,0,1,1,0,100,100
 International Network for Bamboo and Rattan (INBAR),inbar,17,17,17,0,0,0,0,0,0
 International Network of People who Use Drugs (INPUD),inpud_admin,5,5,5,0,0,0,0,0,0
 International NGO Safety Orgnisation,inso,3,3,3,0,0,0,0,0,0
-International Organization for Migration (IOM),iom,296,193,53,15,0,0,5,0,0
-International Planned Parenthood Federation,ippf,9,3,0,7,2,0,78,67,-
+International Organization for Migration (IOM),iom,295,193,53,15,0,0,5,0,0
+International Planned Parenthood Federation,ippf,19,13,0,8,2,0,42,15,-
 International Potato Center,cip,1,1,1,1,1,0,100,100,0
 International Procurement Agency,ipa,16,16,16,0,0,0,0,0,0
-International Rescue Committee UK,irc_uk,18,14,6,15,6,1,83,43,17
+International Rescue Committee UK,irc_uk,21,17,7,16,7,2,76,41,29
 International Service,unais,0,0,0,0,0,0,-,-,-
 International Trade Centre (ITC),itc,45,32,10,45,26,7,100,81,70
 International Treatment Preparedness Coalition (ITPC),itpc,0,0,0,0,0,0,-,-,-
-International Union for Conservation of Nature and Natural Resources,iucn,0,0,0,0,0,0,-,-,-
+International Union for Conservation of Nature and Natural Resources,iucn,1,1,1,0,0,0,0,0,0
 International Women's Development Agency,iwda,5,0,0,0,0,0,0,-,-
 International Youth Alliance for Family Planning,iyafp,1,0,0,1,0,0,100,-,-
 Internews Europe,ieu,1,1,0,0,0,0,0,0,-
@@ -552,15 +556,15 @@ IntraHealth International,intrahealth,0,0,0,0,0,0,-,-,-
 IOD PARC,iodparc,1,1,1,0,0,0,0,0,0
 iPartner India,ip-india,0,0,0,0,0,0,-,-,-
 Ipas,ipas,3,3,1,1,1,0,33,33,0
-IPE Global Limited,ipeglobal,4,2,2,3,2,2,75,100,100
+IPE Global Limited,ipeglobal,4,4,3,4,4,2,100,100,67
 Iraq Foundation,iraq_foundation,0,0,0,0,0,0,-,-,-
-IRC,irc,18,10,4,0,0,0,0,0,0
+IRC,irc,7,7,1,0,0,0,0,0,0
 Ireland - Department of Foreign Affairs and Trade,irishaid,0,0,0,0,0,0,-,-,-
 IREX (International Research and Exchange Board),irex,7,7,7,0,0,0,0,0,0
-"Iringa Development of Youth, Disabled and Children Care",idydc,1,1,0,0,0,0,0,0,-
+"Iringa Development of Youth, Disabled and Children Care",idydc,2,2,1,0,0,0,0,0,0
 Irise International,irise_int,0,0,0,0,0,0,-,-,-
 Irrawaddy Policy Exchange,ipe,1,1,0,1,1,0,100,100,-
-Islamic Relief Worldwide,irw,0,0,0,0,0,0,-,-,-
+Islamic Relief Worldwide,irw,1,1,0,1,0,0,100,0,-
 Itad,itad,6,6,6,1,1,1,17,17,17
 ITECO - Centre de formation pour le développement,iteco,3,3,0,3,3,0,100,100,-
 IUCN Nederlands Comité,iucn_nl,30,0,0,30,0,0,100,-,-
@@ -573,6 +577,7 @@ Kadaster International,kad,5,5,5,1,0,0,20,0,0
 Karuna Mission Social Solidarity - KMSS,kmss,1,1,0,1,0,0,100,0,-
 Karuna Trust,karuna,1,1,1,0,0,0,0,0,0
 Kenya National Commission on Human Rights,knchr,2,2,2,0,0,0,0,0,0
+Kenya Private Sector Alliance,kepsa,1,1,1,1,1,0,100,100,0
 Kepa ry,kepa,0,0,0,0,0,0,-,-,-
 Kesho Kenya,kesho_kenya,1,1,1,0,0,0,0,0,0
 kidasha,kidasha,1,1,1,1,1,0,100,100,0
@@ -583,14 +588,15 @@ KIYO,kiyo,10,10,0,10,10,0,100,100,-
 Koepel van de Vlaamse Noord-Zuidbeweging 11.11.11 VZW,111111_publisher,16,16,0,16,16,0,100,100,-
 Koninklijk Nederlands Meteorologisch Instituut,knmi,0,0,0,0,0,0,-,-,-
 KPMG East Africa,kpmgea,2,2,1,2,2,1,100,100,100
-KPMG LLP,kpmgllp,1,1,1,0,0,0,0,0,0
+KPMG LLP,kpmgllp,1,1,0,1,0,0,100,0,-
 KwaAfrica,kwaafrica,1,1,1,0,0,0,0,0,0
 Kwame Nkrumah University of Science and Technology,knust,0,0,0,0,0,0,-,-,-
 LAMB Health Care Foundation,lhcf,1,1,1,0,0,0,0,0,0
-Landell Mills,landell-mills,1,1,0,0,0,0,0,0,-
+Landell Mills,landell-mills,1,1,1,1,1,0,100,100,0
 Larive International,larive,1,1,0,0,0,0,0,0,-
-Le Monde selon les femmes asbl,mondefemmes,8,8,8,8,8,0,100,100,0
+Le Monde selon les femmes asbl,mondefemmes,8,8,7,8,8,0,100,100,0
 LEAD International,lead_international,0,0,0,0,0,0,-,-,-
+Leaders of Tomorrow,sqf,1,1,1,0,0,0,0,0,0
 Learning for Life,learningforlife,0,0,0,0,0,0,-,-,-
 Leonard Cheshire Disability,lcd_admin,3,3,2,1,1,1,33,33,50
 Lepra,lepra,0,0,0,0,0,0,-,-,-
@@ -606,11 +612,12 @@ living peace institute,lpi,0,0,0,0,0,0,-,-,-
 LIWA programme trust,liwa-admin,1,1,0,0,0,0,0,0,-
 Local Development and Small Projects Support,ldsps,0,0,0,0,0,0,-,-,-
 Louvain Coopération,lc,19,19,0,19,19,0,100,100,-
-LTS International Limited,lts,3,3,2,2,1,2,67,33,100
+LTS International Limited,lts,10,9,6,9,7,6,90,78,100
 MADE in Europe,mie-1134415,1,1,1,0,0,0,0,0,0
 MAG,mag,5,5,5,3,0,0,60,0,0
 Magariro,magariro,0,0,0,0,0,0,-,-,-
-Mainline,mainline,4,0,0,3,0,0,75,-,-
+Mainline,mainline,5,1,0,4,1,0,80,100,-
+Makerere University School of Public Health,maksph,1,1,1,0,0,0,0,0,0
 Malaria Consortium,malariaconsortium,35,23,15,0,0,0,0,0,0
 Mama Cash,mamac,31,0,0,0,0,0,0,-,-
 MAMTA - Health Institute for Mother and Child,mamta_himc,1,1,1,0,0,0,0,0,0
@@ -622,7 +629,7 @@ Mastercard Foundation,mastercard-foundation,0,0,0,0,0,0,-,-,-
 Max Foundation,max-foundation,1,1,1,1,1,0,100,100,0
 Maxwell Stamp PLC,mstamp,0,0,0,0,0,0,-,-,-
 McKinsey & Company,mck,2,2,1,0,0,0,0,0,0
-MDF Global,mdf,2,0,0,0,0,0,0,-,-
+MDF Global,mdf,3,1,1,0,0,0,0,0,0
 Medair,medair,1,1,1,0,0,0,0,0,0
 Medecins du Monde Belgique - Dokters van de Wereld Belgïe,medecins,8,8,7,8,7,0,100,88,0
 Medecins du Monde France,mdm-fr,1,1,1,0,0,0,0,0,0
@@ -641,7 +648,7 @@ Mifumi UK,mifumi_uk,0,0,0,0,0,0,-,-,-
 Milieudefensie,foenl,8,0,0,3,0,0,38,-,-
 Millennium Challenge Corporation,millenniumchallenge,596,567,388,0,0,0,0,0,0
 Ministry of Foreign Affairs - United Arab Emirates (UAE),mofaic_uae,1,1,1,0,0,0,0,0,0
-Ministry of Foreign Affairs of  Japan,mofa-jpn,152,148,110,0,0,0,0,0,0
+Ministry of Foreign Affairs of  Japan,mofa-jpn,243,237,192,0,0,0,0,0,0
 Ministry of Foreign and European Affairs of the Slovak Republic,slovakaid,146,136,131,0,0,0,0,0,0
 Ministère de l'Economie et des Finances du Bénin,mefbenin,2,2,0,0,0,0,0,0,-
 Minority Rights Group,mrg,2,2,2,2,0,0,100,0,0
@@ -652,14 +659,15 @@ Motivation,motivation,0,0,0,0,0,0,-,-,-
 Mott MacDonald Limited,mml,3,3,3,0,0,0,0,0,0
 Mukisa Foundation,mukisa_foundation,1,1,1,0,0,0,0,0,0
 Mulanje Mission Hospital,mmh,1,1,1,1,1,0,100,100,0
-Multilateral Investment Fund,fomin,179,164,100,0,0,0,0,0,0
+Multilateral Investment Fund,fomin,176,164,100,0,0,0,0,0,0
 Musalaha Ministry of Reconciliation,mmr_admin2,0,0,0,0,0,0,-,-,-
 Muslim Aid,muslimaid,0,0,0,0,0,0,-,-,-
 MVO Nederland,mvo_nederland,12,1,1,0,0,0,0,0,0
+Mwatana for Human Rights,mwatana,1,1,0,0,0,0,0,0,-
 Mzumbe University,m_u,3,3,2,0,0,0,0,0,0
 Médecins Sans Vacances,msv,5,5,0,5,5,0,100,100,-
 "Namati, Inc",namati_inc,2,2,0,2,0,0,100,0,-
-Nathan Associates London Ltd.,nathan,7,7,7,2,0,0,29,0,0
+Nathan Associates London Ltd.,nathan,9,9,8,3,0,0,33,0,0
 National Coalition of Human Rights Defenders - Kenya,nchrdk,0,0,0,0,0,0,-,-,-
 Natural Resource Governance Institute (NRGI),nrgi,0,0,0,0,0,0,-,-,-
 "Natural Resources Institute, University of Greenwich.",nri,0,0,0,0,0,0,-,-,-
@@ -669,7 +677,7 @@ Near East Foundation UK (NEF UK),nef-uk,1,1,1,1,1,1,100,100,100
 Neem Foundation,neem,1,1,1,1,0,0,100,0,0
 Nepal Disabled Human Rights Center,dhrc_nepal,1,1,1,1,1,0,100,100,0
 Nepal Netra Jyoti Sangh,nnjs_nepal,1,1,1,0,0,0,0,0,0
-Netherlands - Ministry of Foreign Affairs,minbuza_nl,1233,989,546,1122,698,295,91,71,54
+Netherlands - Ministry of Foreign Affairs,minbuza_nl,1246,1002,555,1142,717,304,92,72,55
 Netherlands Commission for Environmental Assessment,ncea,33,33,33,5,0,0,15,0,0
 Netherlands Enterprise Agency,rvo,198,174,122,1,0,0,1,0,0
 Netherlands Institute for Multiparty Democracy (NIMD),nimd-hq,6,0,0,0,0,0,0,-,-
@@ -679,7 +687,7 @@ Netherlands Red Cross,nlrc,123,53,16,17,0,0,14,0,0
 Netherlands Space Office,nso,8,5,1,0,0,0,0,0,0
 Network for Africa,network4africa,0,0,0,0,0,0,-,-,-
 Network For Enterprise Enhancement and Development Support,needs,0,0,0,0,0,0,-,-,-
-New Zealand - Ministry of Foreign Affairs and Trade - New Zealand Aid Programme,mfat,442,411,268,215,99,51,49,24,19
+New Zealand - Ministry of Foreign Affairs and Trade - New Zealand Aid Programme,mfat,449,417,272,252,176,72,56,42,26
 NGO Federation of Nepal,nfn,0,0,0,0,0,0,-,-,-
 Ngo-federatie (Vlaamse federatie van ngo's voor ontwikkelingssamenwerking),ngo-federatie,5,5,0,5,5,0,100,100,-
 Niger Delta Stakeholders Initiative for Community Development and Empowerment,ndsicde,2,0,0,2,0,0,100,-,-
@@ -692,14 +700,15 @@ Norwegian People's Aid,npa,1,1,0,1,0,0,100,0,-
 Norwegian Refugee Council,nrc,12,11,5,5,3,0,42,27,0
 "NpM, Platform for Inclusive Finance",npm,0,0,0,0,0,0,-,-,-
 Nuffic,nuffic20171017,35,25,6,0,0,0,0,0,0
-OCHA Country Based Pooled Funds,unocha-cbpf,298,87,5,298,87,5,100,100,100
+Nutrition International,nutritionintl,1,1,0,0,0,0,0,0,-
+OCHA Country Based Pooled Funds,unocha-cbpf,320,89,5,320,89,5,100,100,100
 ODI Sales Limited,odi_sales_ltd,3,3,0,2,1,0,67,33,-
 OECD,oecd,1,0,0,1,0,0,100,-,-
 Okapi Consulting,okapiconsulting,1,1,1,0,0,0,0,0,0
 Omidyar Network Fund Inc.,omidyarnetwork,1,1,1,0,0,0,0,0,0
 One Acre Fund,oneacrefund,8,8,8,1,1,1,13,13,13
 One to One Children's Fund,onetoonecf,0,0,0,0,0,0,-,-,-
-One Young World,oyw,4,4,4,1,0,0,25,0,0
+One Young World,oyw,4,4,4,0,0,0,0,0,0
 ONG ALCRER,alcrer-1,7,7,7,0,0,0,0,0,0
 openmindedly,openmindedly,1,1,1,0,0,0,0,0,0
 OpenNorth,opennorth,0,0,0,0,0,0,-,-,-
@@ -713,17 +722,18 @@ Orbis International,orbis_international,2,2,2,2,2,2,100,100,100
 Overseas Development Institute,odi,1,1,1,1,1,1,100,100,100
 Oxfam America,oxfamus,357,357,357,0,0,0,0,0,0
 Oxfam Australia,oau,13,11,7,0,0,0,0,0,0
-Oxfam GB,oxfamgb,83,68,20,0,0,0,0,0,0
+Oxfam GB,oxfamgb,97,82,26,0,0,0,0,0,0
 Oxfam IBIS,ibis_denmark,26,21,1,25,20,0,96,95,0
 Oxfam India,oxfamindia,0,0,0,0,0,0,-,-,-
-Oxfam Intermón,oxfamintermon,112,112,112,0,0,0,0,0,0
-Oxfam Novib,onl,643,285,118,256,0,0,40,0,0
+Oxfam Intermón,oxfamintermon,56,56,56,0,0,0,0,0,0
+Oxfam Novib,onl,666,299,124,271,0,0,41,0,0
 Oxfam Solidarité-Solidariteit,oxsol,12,12,0,12,12,0,100,100,-
 Oxfam Wereldwinkels,oww,2,2,0,2,2,0,100,100,-
 Oxfam-Magasins du monde (omdm),omdm,4,4,0,4,4,0,100,100,-
 Oxford Policy Management,opml,12,12,7,9,7,3,75,58,43
 Pact,pact,0,0,0,0,0,0,-,-,-
-Palladium International Ltd (UK),palladium,9,7,4,0,0,0,0,0,0
+Palladium Europe,palladium_eur,0,0,0,0,0,0,-,-,-
+Palladium International Ltd (UK),palladium,15,13,9,4,1,0,27,8,0
 Palliative Care Association of Malawi,pacam,1,1,0,1,0,0,100,0,-
 Palliative Care Support Trust,pcst,2,2,2,1,1,0,50,50,0
 Panos Institute West Africa (PIWA),ipao,0,0,0,0,0,0,-,-,-
@@ -777,7 +787,7 @@ Rahnuma-Family Planning Assocation of Pakistan,rfpap,0,0,0,0,0,0,-,-,-
 Railway Children,rc,3,3,2,1,0,0,33,0,0
 Railway Children Africa,rc2africa,1,1,0,0,0,0,0,0,-
 RAIN Foundation (former),rainfoundation,0,0,0,0,0,0,-,-,-
-Rainforest Alliance,rainforest-alliance,0,0,0,0,0,0,-,-,-
+Rainforest Alliance,rainforest-alliance,1,1,1,0,0,0,0,0,0
 Rainforest Foundation UK,rfuk,0,0,0,0,0,0,-,-,-
 Raleigh International,raleigh_int,2,2,2,1,1,0,50,50,0
 RCN Justice & Démocratie,rcn,10,10,0,10,10,0,100,100,-
@@ -787,8 +797,9 @@ Regional Advisory Information and Network Systems,rains,1,1,1,0,0,0,0,0,0
 "Rehabilitation, Education and Community Health (REACH)",reach-iraq,0,0,0,0,0,0,-,-,-
 Relief International - Somalia,ri_kenya,0,0,0,0,0,0,-,-,-
 Relief International UK,ri-uk,0,0,0,0,0,0,-,-,-
-Republic of Korea,odakorea,691,429,247,0,0,0,0,0,0
-Resilience,resilience,1,1,1,1,1,0,100,100,0
+Rene Moawad Foundation,rmf-lb,1,1,1,1,0,0,100,0,0
+Republic of Korea,odakorea,1167,854,269,0,0,0,0,0,0
+Resilience,resilience,2,2,2,1,1,0,50,50,0
 Resource Extraction Monitoring,rem,0,0,0,0,0,0,-,-,-
 Responsible Mining Foundation,rmf,0,0,0,0,0,0,-,-,-
 Restless Development,restless,2,2,2,2,2,2,100,100,100
@@ -810,19 +821,19 @@ Royal Society for the Protection of Birds,rspb_,0,0,0,0,0,0,-,-,-
 Royal Tropical Institute,kit,9,9,9,8,0,0,89,0,0
 RUAF Foundation,ruaf,4,4,4,0,0,0,0,0,0
 Rutgers,rutgers,32,14,14,0,0,0,0,0,0
-Sabre Education Limited,sct,0,0,0,0,0,0,-,-,-
+Sabre Education Limited,sct,1,1,1,1,1,1,100,100,100
 Saferworld,saferworld,9,9,5,6,3,0,67,33,0
 Samaritan's Purse UK,spuk,1,1,1,0,0,0,0,0,0
 Savana Signatures,savsign-org,0,0,0,0,0,0,-,-,-
 Save the Children DK,redbarnet,2,2,0,2,0,0,100,0,-
-Save the Children International,sci,28,18,12,0,0,0,0,0,0
-Save the Children Netherlands,scnl,10,4,1,10,3,0,100,75,0
-Save the Children UK,scuk,34,20,13,0,0,0,0,0,0
+Save the Children International,sci,33,21,12,0,0,0,0,0,0
+Save the Children Netherlands,scnl,9,3,0,9,2,0,100,67,-
+Save the Children UK,scuk,44,26,15,0,0,0,0,0,0
 SCI Projets Internationaux ASBL_Service Civil International branche belge,scibelgium,3,3,0,3,3,0,100,100,-
 Scotland's International Development Alliance,sinda,0,0,0,0,0,0,-,-,-
 Scottish Catholic International Aid Fund (SCIAF),sciaf,2,2,1,1,1,0,50,50,0
 Search for Common Ground (SFCG),sfcg,2,2,1,0,0,0,0,0,0
-SECOURS CATHOLIQUE - CARITAS FRANCE,sccf,220,220,220,50,0,0,23,0,0
+SECOURS CATHOLIQUE - CARITAS FRANCE,sccf,230,230,230,85,0,0,37,0,0
 Seefar,seefar,1,1,0,0,0,0,0,0,-
 Sehat Kahani (Community Innovation Hub),sehatkahanicih,0,0,0,0,0,0,-,-,-
 Self Help Africa,self-help-africa,18,14,6,0,0,0,0,0,0
@@ -857,14 +868,14 @@ Solidaridad West Africa,solidaridad-waf,13,6,2,7,2,0,54,33,0
 Solsoc,solsoc,12,12,0,12,12,0,100,100,-
 Sonke Gender Justice,sjg,1,1,1,0,0,0,0,0,0
 SOS Children's Villages Kenya,soscvkenya,0,0,0,0,0,0,-,-,-
-SOS Children's Villages The Netherlands,sosnl,5,5,5,0,0,0,0,0,0
+SOS Children's Villages The Netherlands,sosnl,6,6,6,0,0,0,0,0,0
 SOS FAIM - SOS HUNGER,sosfaim,11,11,0,10,10,0,91,91,-
 SOS Kinderdorpen België / SOS Villages d'Enfants Belgique,svdbskb_admin,4,4,0,4,4,0,100,100,-
 SOS Sahel International UK,sossaheluk,0,0,0,0,0,0,-,-,-
 Sound Seekers Limited,soundseekers,0,0,0,0,0,0,-,-,-
 South Asian Women Development Forum,sawdf-admin,2,2,2,0,0,0,0,0,0
 Southern African Catholic Bishops' Conference Aids Office,sacbc,0,0,0,0,0,0,-,-,-
-SouthSouthNorth,ssn,1,1,1,0,0,0,0,0,0
+SouthSouthNorth,ssn,1,1,1,1,0,0,100,0,0
 Spain - Ministry of Foreign Affairs and Cooperation,maec,1351,46,33,0,0,0,0,0,0
 Spanish Agency for International Development Cooperation (AECID),aecid,333,248,95,59,0,0,18,0,0
 SPARK,spark,4,4,4,1,0,0,25,0,0
@@ -872,13 +883,13 @@ Special Hope Network,shn,1,1,1,0,0,0,0,0,0
 Stakeholder Democracy Network,sdn,1,0,0,0,0,0,0,-,-
 Stars Foundation,starsfoundation,1,1,1,0,0,0,0,0,0
 STC International,stc-international,1,1,1,0,0,0,0,0,0
-Stichting ActionAId,aanl,4,4,4,4,0,0,100,0,0
+Stichting ActionAId,aanl,4,0,0,4,0,0,100,-,-
 Stichting Aflatoun International,aflatoun,0,0,0,0,0,0,-,-,-
-Stichting Agriterra,agriterra,7,2,1,0,0,0,0,0,0
-Stichting Aidenvironment,aidenvironment,7,7,0,0,0,0,0,0,-
+Stichting Agriterra,agriterra,278,22,12,132,2,2,47,9,17
+Stichting Aidenvironment,aidenvironment,6,6,3,0,0,0,0,0,0
 Stichting Beheer Subsidiegelden DRA,stichting-subsidiegelden-dra,0,0,0,0,0,0,-,-,-
-Stichting Deltares,deltares,12,7,7,0,0,0,0,0,0
-Stichting fondsbeheer DGGF lokaal MKB,dggf_financing_local_smes,40,39,30,23,21,14,57,54,47
+Stichting Deltares,deltares,17,12,12,0,0,0,0,0,0
+Stichting fondsbeheer DGGF lokaal MKB,dggf_financing_local_smes,48,47,38,31,29,22,65,62,58
 Stichting Health Action International,hai,6,1,1,5,1,1,83,100,100
 Stichting Humana,humana_houben,1,1,1,0,0,0,0,0,0
 Stichting Kinderpostzegels Nederland,skn,1,0,0,0,0,0,0,-,-
@@ -890,13 +901,14 @@ Stichting Red een Kind,redeenkind,0,0,0,0,0,0,-,-,-
 Stichting Vluchteling,st_vluchteling,4,2,1,2,0,0,50,0,0
 Stichting VU Amsterdam - Amsterdam Centre for World Food Studies,acwfs_vu,0,0,0,0,0,0,-,-,-
 Stichting Woord en Daad,w-d,1,1,0,1,1,0,100,100,-
+Stockholm International Water Institute,siwi,1,0,0,1,0,0,100,-,-
 Street Child,street_child,4,4,2,4,3,2,100,75,100
 StreetInvest,si,1,1,1,0,0,0,0,0,0
 Stromme Foundation,stromme_ug,0,0,0,0,0,0,-,-,-
 Studio Globo,sg,3,3,0,2,2,0,67,67,-
 Support Trust for Africa Development (STAD),stad,0,0,0,0,0,0,-,-,-
 Survivors Fund (SURF),surf,1,1,1,0,0,0,0,0,0
-"Sweden, through Swedish International Development Cooperation Agency (Sida)",sida,3709,2869,1630,2870,1669,408,77,58,25
+"Sweden, through Swedish International Development Cooperation Agency (Sida)",sida,4673,3772,2188,3577,2181,695,77,58,32
 Switzerland - Swiss Agency for Development and Cooperation (SDC),sdc_ch,10742,9616,8471,0,0,0,0,0,0
 Sympany+,simone_sympany,0,0,0,0,0,0,-,-,-
 Syria Relief,sr,1,1,1,0,0,0,0,0,0
@@ -908,7 +920,7 @@ Teach A Man To Fish,tamtf,0,0,0,0,0,0,-,-,-
 TEAR fund Nederland,tear,4,1,0,0,0,0,0,0,-
 Tearfund,tearfund,3,2,1,1,0,0,33,0,0
 Tearfund VZW (TFBE),tfb_admin1,3,3,0,3,3,0,100,100,-
-TechnoServe,tns,1,1,1,0,0,0,0,0,0
+TechnoServe,tns,2,2,2,1,1,1,50,50,50
 Terre des Hommes Netherlands,tdh_nl,15,6,1,1,0,0,7,0,0
 Terre des hommes- Aide à l'enfance dans le monde- Fondation,tdh_foundation,1,1,0,0,0,0,0,0,-
 The Access to Nutrition Foundation,atnf,8,8,8,0,0,0,0,0,0
@@ -928,12 +940,13 @@ The Global Forum on MSM & HIV (MSMGF),msmgf,6,6,6,0,0,0,0,0,0
 The HALO Trust,halo,1,0,0,1,0,0,100,-,-
 The Hunger Project Netherlands,thp_org,1,0,0,0,0,0,0,-,-
 The International Children's Trust,theict,1,1,1,0,0,0,0,0,0
-The International Rescue Committee,irc_inc,20,16,5,16,6,1,80,38,20
-The Leprosy Mission England and Wales,tlmew,0,0,0,0,0,0,-,-,-
+The International Rescue Committee,irc_inc,22,18,6,17,7,2,77,39,33
+The Legal Aid Forum,laf,2,2,1,0,0,0,0,0,0
+The Leprosy Mission England and Wales,tlmew,1,1,1,1,1,1,100,100,100
 The Louis Berger Group Inc.,lbg,1,1,1,1,1,1,100,100,100
 The Mailman School of Public Health,mailman_school_of_public_health,1,1,1,1,1,1,100,100,100
 The MENTOR Initiative,the_mentor_initiative,1,1,1,1,1,1,100,100,100
-The National Association of Municipalities of Benin (ANCB),ancb_benin,0,0,0,0,0,0,-,-,-
+The National Association of Municipalities of Benin (ANCB),ancb_benin,24,24,1,0,0,0,0,0,0
 The OPEC Fund for International Development (OFID),ofid,1432,1432,1432,0,0,0,0,0,0
 The Open University,open_university,7,7,4,6,5,1,86,71,25
 "The Population Council, Inc.",populationcouncil,1,0,0,1,0,0,100,-,-
@@ -941,11 +954,11 @@ The Power of Nutrition,the_power_of_nutrition,11,11,10,10,9,9,91,82,90
 The Princess Alia Foundation,paf_2018,4,4,4,0,0,0,0,0,0
 The Queen Elizabeth Diamond Jubilee Trust,qedjt,0,0,0,0,0,0,-,-,-
 The Salvation Army International Development UK,said-uk,1,1,1,0,0,0,0,0,0
-The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA),unrwa,89,23,7,42,0,0,47,0,0
-"The University of Dodoma (UDOM), Tanzania",udom,3,3,0,0,0,0,0,0,-
-The University of Manchester,uom,1,1,1,1,1,0,100,100,0
-The University of Oxford,oxford,1,1,1,0,0,0,0,0,0
-The William and Flora Hewlett Foundation,hewlett-foundation,213,178,61,0,0,0,0,0,0
+The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA),unrwa,271,23,7,270,0,0,100,0,0
+"The University of Dodoma (UDOM), Tanzania",udom,1,1,0,0,0,0,0,0,-
+The University of Manchester,uom,2,2,2,1,1,0,50,50,0
+The University of Oxford,oxford,1,1,1,1,1,0,100,100,0
+The William and Flora Hewlett Foundation,hewlett-foundation,264,218,78,0,0,0,0,0,0
 The World Bank,worldbank,1326,1165,846,1300,1099,812,98,94,96
 Theatre for a Change Malawi,tfacmalawi,0,0,0,0,0,0,-,-,-
 Theatre for a Change UK,tfac,0,0,0,0,0,0,-,-,-
@@ -976,7 +989,7 @@ UHAI EASHRI,uhai-eashri,3,0,0,0,0,0,0,-,-
 "UK - Department for Business, Energy and Industrial Strategy (BEIS)",beis,727,660,212,458,229,25,63,35,12
 "UK - Department for Digital, Culture, Media and Sport",dcms,2,2,2,1,1,0,50,50,0
 "UK - Department for Environment, Food and Rural Affairs",defra_transparency,39,39,13,31,6,5,79,15,38
-UK - Department for International Development (DFID),dfid,1985,1778,1113,1465,1035,557,74,58,50
+UK - Department for International Development (DFID),dfid,2108,1889,1191,1569,1156,614,74,61,52
 UK - Department for Work and Pensions,dwp,1,1,1,1,1,1,100,100,100
 UK - Department of Health and Social Care (DHSC),dhsc,85,77,19,71,19,6,84,25,32
 UK - Foreign & Commonwealth Office,fco,321,321,275,0,0,0,0,0,0
@@ -988,35 +1001,34 @@ UK – Department for Education,dfe,0,0,0,0,0,0,-,-,-
 ULB-Coopération,ulbcoop,11,11,0,11,11,0,100,100,-
 UN Global Compact Local Network UK,ungc-uk,1,1,1,1,1,1,100,100,100
 UN Pooled Funds,unpf,5061,5005,4902,0,0,0,0,0,0
-UN Women,unw,1002,803,346,838,576,266,84,72,77
+UN Women,unw,1012,805,345,859,574,264,85,71,77
 UN-Habitat,unhabitat,0,0,0,0,0,0,-,-,-
 Unicef Belgium National Committee,ub,4,4,0,4,4,0,100,100,-
 UNICEF Netherlands National Committee,unicefnl,2,0,0,0,0,0,0,-,-
 Unie van Waterschappen,uvw,18,18,18,0,0,0,0,0,0
 Union des Villes et Communes de Wallonie (UVCW),uvcw,5,5,0,5,5,0,100,100,-
 Union of Agricultural Work Committees,uawc,0,0,0,0,0,0,-,-,-
-UNITAID,utd,32,25,12,27,19,8,84,76,67
+UNITAID,utd,34,27,14,28,20,9,82,74,64
 United Disabled Persons of Kenya,udpk,0,0,0,0,0,0,-,-,-
 United Mission to Nepal,umn,0,0,0,0,0,0,-,-,-
 United Nations Capital Development Fund,uncdf,120,40,3,86,0,0,72,0,0
-United Nations Central Emergency Response Fund (CERF),cerf,93,50,42,93,50,42,100,100,100
-United Nations Children's Fund (UNICEF),unicef,3114,2386,1107,3114,2386,1107,100,100,100
-United Nations Development Programme (UNDP),undp,4370,1959,847,3632,1210,487,83,62,57
+United Nations Central Emergency Response Fund (CERF),cerf,122,51,40,122,51,40,100,100,100
+United Nations Children's Fund (UNICEF),unicef,3097,2385,1100,3097,2385,1100,100,100,100
+United Nations Development Programme (UNDP),undp,4403,1975,854,3673,1216,490,83,62,57
 "United Nations Educational, Scientific and Cultural Organization (UNESCO)",unesco,118,75,24,118,53,0,100,71,0
 United Nations Environment Programme (UNEP),un-environment,1,1,0,0,0,0,0,0,-
 United Nations Foundation,unf,4,4,4,1,0,0,25,0,0
-United Nations High Commissioner for Refugees (UNHCR),unhcr,120,120,0,119,120,0,99,100,-
-United Nations Industrial Development Organization (UNIDO),unido,532,377,194,474,0,0,89,0,0
+United Nations High Commissioner for Refugees (UNHCR),unhcr,120,120,0,120,120,0,100,100,-
+United Nations Industrial Development Organization (UNIDO),unido,540,383,197,484,0,0,90,0,0
 United Nations Joint Programme on HIV and AIDS Secretariat (UNAIDS),unaids,0,0,0,0,0,0,-,-,-
-United Nations OCHA Financial Tracking Service (UN OCHA FTS),ocha_fts,0,0,0,0,0,0,-,-,-
-United Nations Office for Project Services (UNOPS),unops,1029,1029,1029,0,0,0,0,0,0
-United Nations Office for the Coordination of Humanitarian Affairs (OCHA),unocha,48,48,48,48,48,48,100,100,100
-United Nations Office for the Coordination of Humanitarian Affairs (Specially-Designated Contributions),unocha-sdc,3,3,3,0,0,0,0,0,0
+United Nations Office for Project Services (UNOPS),unops,1027,1027,1027,0,0,0,0,0,0
+United Nations Office for the Coordination of Humanitarian Affairs (OCHA),unocha,77,77,77,77,77,77,100,100,100
+United Nations Office for the Coordination of Humanitarian Affairs (Specially-Designated Contributions),unocha-sdc,4,4,4,0,0,0,0,0,0
 United Nations Population Fund,unfpa,0,0,0,0,0,0,-,-,-
-United Nations World Food Programme (WFP),wfp,642,524,367,640,524,367,100,100,100
+United Nations World Food Programme (WFP),wfp,643,522,365,643,522,365,100,100,100
 United Purpose,cu,1,1,1,0,0,0,0,0,0
-United States,unitedstates,1706,1584,841,14,0,0,1,0,0
-United States Agency for International Development (USAID),usaid,1377,1256,761,0,0,0,0,0,0
+United States,unitedstates,3030,2860,1772,919,0,0,30,0,0
+United States Agency for International Development (USAID),usaid,1375,1255,761,0,0,0,0,0,0
 United Work,united_work,0,0,0,0,0,0,-,-,-
 Universitair Centrum voor Ontwikkelingssamenwerking,ucos,2,2,0,2,2,0,100,100,-
 Universiteit Leiden,universiteit_leiden,2,1,1,2,1,1,100,100,100
@@ -1049,7 +1061,7 @@ Viva Salud,g3w-m3m_admin,8,8,0,8,8,0,100,100,-
 Vlaamse Interuniversitaire Raad voor Universitaire Ontwikkelingssamenwerking (VLIR-UOS),vlir-uos,25,25,0,24,24,0,96,96,-
 VNG International,vngi,13,13,2,8,8,0,62,62,0
 Voluntary Health Association of India,vhai-org,0,0,0,0,0,0,-,-,-
-Voluntary Service Overseas (VSO),vso,6,5,2,1,1,1,17,20,50
+Voluntary Service Overseas (VSO),vso,8,7,4,2,2,1,25,29,25
 VVOB Education for Development,vvob,14,14,0,14,14,0,100,100,-
 VVSG - Vereniging van Vlaamse Steden en Gemeenten,vvsg,11,11,0,11,11,0,100,100,-
 Wageningen University & Research - Stichting Wageningen Research,wageningen_ur,7,3,1,3,1,1,43,33,100
@@ -1069,13 +1081,13 @@ Water Works,waterworks,0,0,0,0,0,0,-,-,-
 WaterAid,wateraid,3,3,1,1,1,0,33,33,0
 We Effect,weeffect,181,180,178,0,0,0,0,0,0
 We World - GVC Onlus,ww-gvc,2,2,2,2,2,1,100,100,50
-Welbodi Partnership,welbodipartnership,0,0,0,0,0,0,-,-,-
+Welbodi Partnership,welbodipartnership,1,1,0,0,0,0,0,0,-
 Wellfound,wellfound,2,2,2,0,0,0,0,0,0
 Welthungerhilfe,whh,7,5,1,6,3,1,86,60,100
 Wemos Foundation,wemos,3,0,0,3,0,0,100,-,-
 Wereldsolidariteit-Solidarité Mondiale (WSM),wsm,8,8,0,8,8,0,100,100,-
 Westminster Foundation for Democracy,wfd,7,6,1,0,0,0,0,0,0
-Wetlands International,wi,28,0,0,0,0,0,0,-,-
+Wetlands International,wi,40,0,0,0,0,0,0,-,-
 Win Win Strategies,wws,0,0,0,0,0,0,-,-,-
 Windle Trust Kenya,wtk,1,1,1,0,0,0,0,0,0
 WNF Wereld Natuur Fonds,wnf,6,0,0,6,0,0,100,-,-
@@ -1096,7 +1108,7 @@ World Agroforestry Centre,icraf_,0,0,0,0,0,0,-,-,-
 World Association for Christian Communication (UK),wacc-uk,0,0,0,0,0,0,-,-,-
 World Benchmarking Alliance Foundation,wba,0,0,0,0,0,0,-,-,-
 World Child Cancer UK,wccuk,2,2,2,1,0,0,50,0,0
-World Economic Forum,worldeconomicforum,0,0,0,0,0,0,-,-,-
+World Economic Forum,worldeconomicforum,1,1,1,0,0,0,0,0,0
 World Economic Forum Geneva,weforum_geneva,0,0,0,0,0,0,-,-,-
 World Education Inc.,wei,1,1,1,0,0,0,0,0,0
 World Federalist Movement - Institute for Global Policy,wfm-igp,1,1,1,1,0,0,100,0,0
@@ -1121,6 +1133,7 @@ WYG International B.V.,wygi,2,2,2,0,0,0,0,0,0
 Y Care International,ycare,3,3,2,2,1,1,67,33,50
 Yamaan Foundation for Health and Social Development,yffhsd,0,0,0,0,0,0,-,-,-
 YMCA of Liberia,libymca,1,1,1,0,0,0,0,0,0
+Young Africa International HUB,yai-hub,0,0,0,0,0,0,-,-,-
 Young Innovations Pvt. Ltd,yipl,1,1,1,0,0,0,0,0,0
 Youth Business International,ybi,0,0,0,0,0,0,-,-,-
 Youth Net and Counselling - YONECO,yoneco1997,1,1,1,0,0,0,0,0,0
